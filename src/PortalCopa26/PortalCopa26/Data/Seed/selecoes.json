@@ -1,0 +1,338 @@
+[
+  {
+    "codigoFifa": "MEX",
+    "nome": "México",
+    "tecnico": "Javier Aguirre",
+    "grupo": "A",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "RSA",
+    "nome": "África do Sul",
+    "tecnico": "Hugo Broos",
+    "grupo": "A",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "KOR",
+    "nome": "Coreia do Sul",
+    "tecnico": "Hong Myung-bo",
+    "grupo": "A",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "CZE",
+    "nome": "República Tcheca",
+    "tecnico": "Miroslav Koubek",
+    "grupo": "A",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "CAN",
+    "nome": "Canadá",
+    "tecnico": "Jesse Marsch",
+    "grupo": "B",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "BIH",
+    "nome": "Bósnia e Herzegovina",
+    "tecnico": "Sergej Barbarez",
+    "grupo": "B",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "QAT",
+    "nome": "Catar",
+    "tecnico": "Julen Lopetegui",
+    "grupo": "B",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "SUI",
+    "nome": "Suíça",
+    "tecnico": "Murat Yakin",
+    "grupo": "B",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "BRA",
+    "nome": "Brasil",
+    "tecnico": "Carlo Ancelotti",
+    "grupo": "C",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "MAR",
+    "nome": "Marrocos",
+    "tecnico": "Mohamed Ouahbi",
+    "grupo": "C",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "HAI",
+    "nome": "Haiti",
+    "tecnico": "Sébastien Migné",
+    "grupo": "C",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "SCO",
+    "nome": "Escócia",
+    "tecnico": "Steve Clarke",
+    "grupo": "C",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "USA",
+    "nome": "Estados Unidos",
+    "tecnico": "Mauricio Pochettino",
+    "grupo": "D",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "PAR",
+    "nome": "Paraguai",
+    "tecnico": "Gustavo Alfaro",
+    "grupo": "D",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "AUS",
+    "nome": "Austrália",
+    "tecnico": "Tony Popovic",
+    "grupo": "D",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "TUR",
+    "nome": "Turquia",
+    "tecnico": "Vincenzo Montella",
+    "grupo": "D",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "GER",
+    "nome": "Alemanha",
+    "tecnico": "Julian Nagelsmann",
+    "grupo": "E",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "CUW",
+    "nome": "Curaçao",
+    "tecnico": "Dick Advocaat",
+    "grupo": "E",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "CIV",
+    "nome": "Costa do Marfim",
+    "tecnico": "Emerse Faé",
+    "grupo": "E",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "ECU",
+    "nome": "Equador",
+    "tecnico": "Sebastián Beccacece",
+    "grupo": "E",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "NED",
+    "nome": "Holanda",
+    "tecnico": "Ronald Koeman",
+    "grupo": "F",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "JPN",
+    "nome": "Japão",
+    "tecnico": "Hajime Moriyasu",
+    "grupo": "F",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "SWE",
+    "nome": "Suécia",
+    "tecnico": "Graham Potter",
+    "grupo": "F",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "TUN",
+    "nome": "Tunísia",
+    "tecnico": "Sabri Lamouchi",
+    "grupo": "F",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "BEL",
+    "nome": "Bélgica",
+    "tecnico": "Rudi Garcia",
+    "grupo": "G",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "EGY",
+    "nome": "Egito",
+    "tecnico": "Hossam Hassan",
+    "grupo": "G",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "IRN",
+    "nome": "Irã",
+    "tecnico": "Amir Ghalenoei",
+    "grupo": "G",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "NZL",
+    "nome": "Nova Zelândia",
+    "tecnico": "Darren Bazeley",
+    "grupo": "G",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "ESP",
+    "nome": "Espanha",
+    "tecnico": "Luis de la Fuente",
+    "grupo": "H",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "CPV",
+    "nome": "Cabo Verde",
+    "tecnico": "Pedro Leitão Brito",
+    "grupo": "H",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "KSA",
+    "nome": "Arábia Saudita",
+    "tecnico": "Georgios Donis",
+    "grupo": "H",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "URU",
+    "nome": "Uruguai",
+    "tecnico": "Marcelo Bielsa",
+    "grupo": "H",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "FRA",
+    "nome": "França",
+    "tecnico": "Didier Deschamps",
+    "grupo": "I",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "SEN",
+    "nome": "Senegal",
+    "tecnico": "Pape Thiaw",
+    "grupo": "I",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "IRQ",
+    "nome": "Iraque",
+    "tecnico": "Graham Arnold",
+    "grupo": "I",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "NOR",
+    "nome": "Noruega",
+    "tecnico": "Ståle Solbakken",
+    "grupo": "I",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "ARG",
+    "nome": "Argentina",
+    "tecnico": "Lionel Scaloni",
+    "grupo": "J",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "ALG",
+    "nome": "Argélia",
+    "tecnico": "Vladimir Petković",
+    "grupo": "J",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "AUT",
+    "nome": "Áustria",
+    "tecnico": "Ralf Rangnick",
+    "grupo": "J",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "JOR",
+    "nome": "Jordânia",
+    "tecnico": "Jamal Sellami",
+    "grupo": "J",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "POR",
+    "nome": "Portugal",
+    "tecnico": "Roberto Martínez",
+    "grupo": "K",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "COD",
+    "nome": "RD Congo",
+    "tecnico": "Sébastien Desabre",
+    "grupo": "K",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "UZB",
+    "nome": "Uzbequistão",
+    "tecnico": "Fabio Cannavaro",
+    "grupo": "K",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "COL",
+    "nome": "Colômbia",
+    "tecnico": "Néstor Lorenzo",
+    "grupo": "K",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "ENG",
+    "nome": "Inglaterra",
+    "tecnico": "Thomas Tuchel",
+    "grupo": "L",
+    "cabecaDeChave": true
+  },
+  {
+    "codigoFifa": "CRO",
+    "nome": "Croácia",
+    "tecnico": "Zlatko Dalic",
+    "grupo": "L",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "GHA",
+    "nome": "Gana",
+    "tecnico": "Carlos Queiroz",
+    "grupo": "L",
+    "cabecaDeChave": false
+  },
+  {
+    "codigoFifa": "PAN",
+    "nome": "Panamá",
+    "tecnico": "Thomas Christiansen",
+    "grupo": "L",
+    "cabecaDeChave": false
+  }
+]

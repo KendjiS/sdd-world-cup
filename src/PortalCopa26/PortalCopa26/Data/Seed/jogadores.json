@@ -1,0 +1,9906 @@
+[
+  {
+    "selecao": "ALG",
+    "nome": "Melvin Mastil",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Aissa Mandi",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 8,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Achref Abada",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Mohamed Amine Tougai",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Zineddine Belaid",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Ramiz Zerrouki",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Riyad Mahrez",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 38,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Houssem Aouar",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Amine Gouri",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Farès Chaibi",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Anis Hadj Moussa",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Nadhir Benbouali",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Jaouen Hadjam",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Hicham Boudaqui",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Rayan Ait-Nouri",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Oussama Benbot",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Rafik Belghali",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Mohamed Amine Amoura",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 19,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Nabil Bentaleb",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Adil Boulbina",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Ramy Bensebaini",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Ibrahim Maza",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Luca Zidane",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Yacine Titraoui",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Farès Ghedjemis",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ALG",
+    "nome": "Samir Chergui",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Juan Musso",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Leonardo Balerdi",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Nicolás Tagliafico",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 1,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Gonzalo Montiel",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Leandro Paredes",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Lisandro Martínez",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Rodrigo De Paul",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Valentín Barco",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Julián Álvarez",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 14,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Lionel Messi",
+    "posicao": "Atacante",
+    "idade": 38,
+    "gols": 20,
+    "participacoesCopas": 5
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Giovani Lo Celso",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 4,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Gerónimo Rulli",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Cristian Romero",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Exequiel Palacios",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Nico González",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Thiago Almada",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Giuliano Simeone",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Nicolás Paz",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Nicolás Otamendi",
+    "posicao": "Defensor",
+    "idade": 38,
+    "gols": 38,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Alexis Mac Allister",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Flaco López",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Lautaro Martínez",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 37,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Emiliano “Dibu” Martínez",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Enzo Fernández",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Facundo Medina",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ARG",
+    "nome": "Nahuel Molina",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Mat Ryan",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 40,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Milos Degenek",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Alessandro Circati",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Jacob Italiano",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Jordan Bos",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Jason Geria",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Mathew Leckie",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 14,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Connor Metcalfe",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Mohamed Toure",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Ajdin Hrustic",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Awer Mabil",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Paul Izzo",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Aiden O'Neill",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Cameron Devlin",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Kai Trewin",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Aziz Behich",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Nestory Irankunda",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Patrick Beach",
+    "posicao": "Goleiro",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Harry Souttar",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 11,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Cristian Volpato",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Cameron Burgess",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Jackson Irvine",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 14,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Nishan Velupillay",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Paul Okon-Engstler",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Lucas Herrington",
+    "posicao": "Defensor",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUS",
+    "nome": "Tete Yengi",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Alexander Schelager",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "David Affengruber",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Kevin Danso",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Schlager",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Stefan Posch",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Nicolas Seiwald",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Marko Arnautovic",
+    "posicao": "Atacante",
+    "idade": 37,
+    "gols": 48,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "David Alaba",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 15,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Sabitzer",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 26,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Florian Grillitsch",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Michael Gregoritsch",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 24,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Florian Wiegele",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Patrick Pentz",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Sasa Kalajdzic",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Philipp Lienhart",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Philipp Mwene",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Carney Chukwuenmeka",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Romano Schmid",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Dejan Ljubicic",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Konrad Laimer",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Patrick Wimmer",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Alexander Prass",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Marco Fiedl",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Paul Wanner",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Michael Svoboda",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "AUT",
+    "nome": "Alessandro Schöpf",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Courtois",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Zeno Debast",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Arthur Theate",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Brandon Mechele",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Maxim De Cuyper",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Axel Witsel",
+    "posicao": "MeioCampista",
+    "idade": 37,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Kevin De Bruyne",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 37,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Youri Tielemans",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 13,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Romelu Lukaku",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 90,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Leandro Trossard",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Jeremy Doku",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Lammens",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Mike Penders",
+    "posicao": "Goleiro",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Dodi Lukebakio",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Thomas Meunier",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Koni De Winter",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Charles De Ketelaere",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Joaquin Seys",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Diego Moreira",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Hans Vanaken",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Timothy Castagne",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Alexis Saelemaekers",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Nicolas Raskin",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Amadou Onana",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Nathan Ngoy",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BEL",
+    "nome": "Mathias Fernandez-Pardo",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Nikola Vasilj",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Nihad Mujakic",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Dennis Hadzikadunic",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Tarik Muharemovic",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Sead Kolasinac",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Benjamin Tahirovic",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Amar Dedic",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Armin Gigovic",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Samed Bazdar",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Ermedin Demirovic",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Edin Dzeko",
+    "posicao": "Atacante",
+    "idade": 40,
+    "gols": 73,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Mladen Jurkas",
+    "posicao": "Goleiro",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Ivan Basic",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Ivan Sunjic",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Amar Memic",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Amir Hadziahmetovic",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Dzenis Burnic",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Nikola Katic",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Kerim Alajbegovic",
+    "posicao": "Atacante",
+    "idade": 18,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Esmir Bajraktarevic",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Stjepan Radeljic",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Martin Zlomislic",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Haris Tabakovic",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Arjan Malic",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Jovo Lukic",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BIH",
+    "nome": "Ermin Mahmic",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Alisson",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Éderson",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Gabriel Magalhães",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Alex Sandro",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Vinicius Junior",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Bruno Guimarães",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Matheus Cunha",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Neymar",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 79,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Raphinha",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 11,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Weverton",
+    "posicao": "Goleiro",
+    "idade": 38,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Danilo",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 1,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Bremer",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Léo Pereira",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Douglas Santos",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Fabinho",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Danilo Santos",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Endrick",
+    "posicao": "Atacante",
+    "idade": 19,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Lucas Paquetá",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 13,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Luiz Henrique",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Gabriel Martinelli",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Roger",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Igor Thiago",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "BRA",
+    "nome": "Rayan",
+    "posicao": "Atacante",
+    "idade": 19,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Josimar Dias",
+    "posicao": "Goleiro",
+    "idade": 40,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Ianique Tavares",
+    "posicao": "Defensor",
+    "idade": 38,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Edilson Borges",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Roberto Lopes",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Logan Costa",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Kevin Pina",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Jovane Cabral",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "João Paulo Fernandes",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Gilson Benchimol",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Jamiro Monteiro",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Garry Rodrigues",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Márcio da Rosa",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Sidny Cabral",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Deroy Duarte",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Laros Duarte",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Yannick Semedo",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Willy Semedo",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Telmo Arcanjo",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Dailon Livramento",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Ryan Mendes",
+    "posicao": "Atacante",
+    "idade": 36,
+    "gols": 22,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Nuno da Costa",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Steven Moreira",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Carlos Santos",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Wagner Pina",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Kelvin Pires",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CPV",
+    "nome": "Hélio Varela",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Dayne St. Clair",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Alistair Johnson",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Alfie Jones",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Luc De Fougerolles",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Joel Waterman",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Mathieu Choinière",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Stephen Eustáquio",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Ismaël Koné",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Cyle Larin",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 32,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Jonathan David",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 42,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Liam Miller",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Tani Oluwaseyi",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Derek Cornelius",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Jacob Shaffelburg",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Moïse Bombito",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Maxime Crépeau",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Tajon Buchanan",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 8,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Owen Goodman",
+    "posicao": "Goleiro",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Alphonso Davies",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 15,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Ali Ahmed",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Jonathan Osario",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Richie Laryea",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Niko Sigur",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Promise David",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Nathan Saliba",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CAN",
+    "nome": "Jayden Nelson",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "David Ospina",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "COL",
+    "nome": "Daniel Muñoz",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jhon Lucumí",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Santiago Arias",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Kevin Castaño",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Richard Ríos",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Luis Díaz",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 23,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jorge Carrascal",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jhon Córdoba",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "James Rodríguez",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 31,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jhon Arias",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Camilo Vargas",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Yerry Mina",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 8,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "COL",
+    "nome": "Gustavo Puerta",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Juan Camilo Portilla",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jefferson Lerma",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "COL",
+    "nome": "Johan Mojica",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Willer Ditta",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Juan Camilo Hernández",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Juan Fernando Quintero",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Jaminton Campaz",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Deiver Machado",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Davinson Sánchez",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "COL",
+    "nome": "Álvaro Montero",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Luis Javier Suárez",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COL",
+    "nome": "Carlos Gómez",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Lionel Mpasi",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Aaron Wan-Bissaka",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Steve Kapuadi",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Alex Tuanzebe",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Dylan Batubinsika",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Ngal'ayel Mukau",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Nathanael Mbuku",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Samuel Moutoussamy",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Brian Cipenga",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Théo Bongonda",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Gaël Kakuta",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Joris Kayembe",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Meschack Elia",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Noah Sadiki",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Aaron Tshibola",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Thimothy Fayulu",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Cédric Bakambu",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 21,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Charles Pickel",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Fiston Mayele",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Yoane Wissa",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Matthieu Epolo",
+    "posicao": "Goleiro",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Chancel Mbemba",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Simon Banza",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Gédéon Kalulu",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Edo Kayembe",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "COD",
+    "nome": "Arthur Masuaku",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Yahia Fofana",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Ousmane Diomande",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Ghislain Konan",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Jean Michaël Seri",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Wilfried Singo",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Seko Fofana",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Odilon Kossounou",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Franck Kessié",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 16,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Ange-Yoan Bonny",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Simon Adingra",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Yan Diomande",
+    "posicao": "Atacante",
+    "idade": 19,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Elye Wahi",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Christopher Operi",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Oumar Diakité",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Amad Diallo",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Mohamed Koné",
+    "posicao": "Goleiro",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Guéla Doué",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Ibrahim Sangaré",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 11,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Nicolas Pépé",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 12,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Emmanuel Agbadou",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Evan Ndicka",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Evann Guessand",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Alban Lafont",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Bazoumana Touré",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Parfait Guiagon",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CIV",
+    "nome": "Christ Inao Oulaï",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Dominik Livakovic",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Josip Stanisic",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Marin Pongracic",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Josko Gvardiol",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Duje Caleta-Car",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Josip Sutalo",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Nikola Moro",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Mateo Kovacic",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 5,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Andrej Kramaric",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 36,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Luka Modric",
+    "posicao": "MeioCampista",
+    "idade": 40,
+    "gols": 29,
+    "participacoesCopas": 5
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Ante Budimir",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Ivor Pandur",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Nikola Vlasic",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Ivan Perisic",
+    "posicao": "Atacante",
+    "idade": 37,
+    "gols": 38,
+    "participacoesCopas": 4
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Mario Pasalic",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 12,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Martin Baturina",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Luka Sucic",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Kristijan Jakic",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Toni Fruk",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Igor Matanovic",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Petar Sucic",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Luka Vuskovic",
+    "posicao": "Defensor",
+    "idade": 19,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Dominik Kotarski",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Marco Pasalic",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Martin Erlic",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CRO",
+    "nome": "Petar Musa",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Eloy Room",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Shurandy Sambo",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Juriën Gaari",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Roshon van Eijma",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Sherel Floranus",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Godfried Romeratoe",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Juninho Bacuna",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 14,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Livano Comenencia",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Jürgen Locadia",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Leandro Bacuna",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 16,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Jeremy Antonisse",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Sontje Hansen",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Tyrese Noslin",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Kenji Gorré",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Ar’Jany Martha",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Jearl Margaritha",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Brandley Kuwas",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Armando Obispo",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Gervane Kastaneer",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Joshua Brenet",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Tahith Chong",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Kevin Felida",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Riechedly Bazoer",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Deveron Fonville",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Tyrick Bodak",
+    "posicao": "Goleiro",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CUW",
+    "nome": "Trevor Doornbusch",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Matěj Kovář",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "David Zima",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Tomáš Holeš",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Robin Hranáč",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Vladimír Coufal",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Štěpán Chaloupek",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Ladislav Krejčí",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Vladimír Darida",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Adam Hložek",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Patrik Schick",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 26,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Jan Kuchta",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Lukáš Červ",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Mojmír Chytil",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "David Jurásek",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Pavel Šulc",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Jindřich Staněk",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Lukáš Provod",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Michal Sadílek",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Tomáš Chorý",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Jaroslav Zelený",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "David Douděra",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Tomáš Souček",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 17,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Lukáš Horníček",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Alexandr Sojka",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Hugo Sochůrek",
+    "posicao": "MeioCampista",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "CZE",
+    "nome": "Denis Višinský",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Hernán Galíndez",
+    "posicao": "Goleiro",
+    "idade": 39,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Félix Torres",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Piero Hincapié",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Joel Ordóñez",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Jordy Alcívar",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Willian Pacho",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Pervis Estupiñán",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Enner Valencia",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "ECU",
+    "nome": "John Yeboah",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Kendry Páez",
+    "posicao": "MeioCampista",
+    "idade": 19,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Kevin Rodríguez",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Moisés Ramírez",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Anthony Valencia",
+    "posicao": "Atacante",
+    "idade": 36,
+    "gols": 49,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Alan Minda",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Pedro Vite",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Jordy Caicedo",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Ángelo Preciado",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Denil Castillo",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Gonzalo Plata",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 8,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Nilson Angulo",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Alan Franco",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Gonzalo Valle",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Moisés Caicedo",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Jeremy Arévalo",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Jackson Porozo",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ECU",
+    "nome": "Yaimar Medina",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohamed El Shenawy",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Yasser Ibrahim",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohamed Hany",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Hossam Abdelmaguid",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Ramy Rabia",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohamed Abdelmonem",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mahmoud Trezeguet",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 23,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Emam Ashour",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Hamza Abdel Karim",
+    "posicao": "Atacante",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohamed Salah",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 67,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mostafa Ziko",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Aktay Abdullah",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Ahmed Fatouh",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Hamdi Fathi",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Karim Hafez",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "El Mahdy Soliman",
+    "posicao": "Goleiro",
+    "idade": 39,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohannad Lasheen",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Nabil Emad Dunga",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Marwan Attia",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Ibrahim Adel",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mahmoud Saber",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Omar Marmoush",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mostafa Shobeir",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Tarek Alaa",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Ahmed Sayed Zizo",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "EGY",
+    "nome": "Mohamed Alaa",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Jordan Pickford",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Ezri Konsa",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Nico O'Reilly",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Declan Rice",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 7,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ENG",
+    "nome": "John Stones",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Marc Guehi",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Bukayo Saka",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 14,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Elliot Anderson",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Harry Kane",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 81,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Jude Bellingham",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Marcus Rashford",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 19,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Chalobah",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Dean Henderson",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Jordan Henderson",
+    "posicao": "MeioCampista",
+    "idade": 36,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Dan Burn",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Kobbie Mainoo",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Morgan Rogers",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Anthony Gordon",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Ollie Watkins",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Noni Madueke",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Eberechi Eze",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Ivan Toney",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "James Trafford",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "eece James",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Djed Spence",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ENG",
+    "nome": "Jarell Quansah",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Brice Samba",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Malo Gusto",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Lucas Digne",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Dayot Upamecano",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Jules Koundé",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Manu Koné",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Ousmane Dembélé",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 7,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Aurélien Tchouaméni",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Marcus Thuram",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Kylian Mbappé",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 58,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Michael Olise",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Bradley Barcola",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "N'Golo Kanté",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Adrien Rabiot",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 7,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Ibrahima Konaté",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Mike Maignan",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "William Saliba",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Warren Zaïre-Emery",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Lucas Hernandez",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Désiré Doué",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Theo Hernandez",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Jean-Philippe Mateta",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Robin Risser",
+    "posicao": "Goleiro",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Rayan Cherki",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Maghnès Akliouche",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "FRA",
+    "nome": "Maxence Lacroix",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Manuel Neuer",
+    "posicao": "Goleiro",
+    "idade": 40,
+    "gols": 60,
+    "participacoesCopas": 4
+  },
+  {
+    "selecao": "GER",
+    "nome": "Antonio Rudiger",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 3,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "GER",
+    "nome": "Waldemar Anton",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Jonathan Tah",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Aleksandar Pavlovic",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Joshua Kimmich",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 10,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "GER",
+    "nome": "Kai Havertz",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 24,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Leon Goretzka",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 15,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "GER",
+    "nome": "Jamie Leweling",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Jamal Musiala",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 10,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Nick Woltemade",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Oliver Baumann",
+    "posicao": "Goleiro",
+    "idade": 36,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Pascal Gross",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Maximilian Beier",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Nico Schlotterbeck",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Angelo Stiller",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Florian Wirtz",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 11,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Nathaniel Brown",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Leroy Sané",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 17,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "GER",
+    "nome": "Nadiem Amiri",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Alexander Nubel",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "David Raum",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "GER",
+    "nome": "Felix Nmecha",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Malick Thiaw",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Lennart Karl",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GER",
+    "nome": "Deniz Undav",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Lawrence Ati-Zigi",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Alidu Seidu",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Caleb Yirenkyi",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Jonas Adjetey",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Thomas Partey",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 16,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Abdul Mumin",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Abdul Fatawu Issahaku",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Kwasi Sibo",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Jordan Ayew",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 34,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Brandon Thomas-Asante",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Antoine Semenyo",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Joseph Anang",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Christopher Bonsu Baah",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Gideoh Mensah",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Elisha Owusu",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Benjamin Asare",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Baba Abdul Rahman",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Jerome Opoku",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Iñaki Williams",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Augustine Boakye",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Kojo Oppong Peprah",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Kamal Deen Sulemana",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Derrick Luckassen",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Ernest Nuamah",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Prince Kwabena Adu",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "GHA",
+    "nome": "Marvin Senaya",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Johnny Placide",
+    "posicao": "Goleiro",
+    "idade": 38,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Carlens Arcus",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Keeto Thermoncy",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Ricardo Ade",
+    "posicao": "Defensor",
+    "idade": 36,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Hannes Delcroix",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Carl-Fred Sainthe",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Derrick Etienne",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Martin Experience",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Duckens Nazon",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 44,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Jeanricner Bellegarde",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Louicius Deedson",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Alexandre Pierre",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Duke Lacroix",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Garven-Michée Metusala",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Ruben Providence",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Lenny Joseph",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Jean-Jacques Danley",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Wilson Isidor",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Yassin Fortune",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Frantzdy Pierrot",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 34,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Josué Casimir",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "JK Duverne",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Josué Duverger",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Wilguens Pauguain",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Dominique Simon",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "HAI",
+    "nome": "Pierre Woodenski",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Alireza Beyranvand",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Saleh Hardani",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Ehsan Hajisafi",
+    "posicao": "Defensor",
+    "idade": 36,
+    "gols": 77,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Shoja Khalilzadeh",
+    "posicao": "Defensor",
+    "idade": 37,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Milad Mohammadi",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Saeid Ezatolahi",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Alireza Jahanbakhsh",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Mohammad Mohebbi",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 14,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Mehdi Taremi",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 59,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Mehdi Ghayedi",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Ali Alipour",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Payam Niazmand",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Hossein Kanani",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Saman Ghoddos",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Roozbeh Cheshmi",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Mehdi Torabi",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Arya Yousefi",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Amirhossein Hosseinzadeh",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Ali Nemati",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Shahriyar Moghanloo",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Mohammad Ghorbani",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Hosein Hoseini",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Ramin Rezaeian",
+    "posicao": "Defensor",
+    "idade": 36,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Denis Dargahi",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Danial Iri",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRN",
+    "nome": "Amirmohammad Razaghinia",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Fahad Talib",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Rebin Ghareeb",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Hussein Ali",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Zaid Tahseen",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Akam Hashim",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Munaf Younus",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Youssef Amyn",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ibrahim Bayesh",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ali Al-Hamadi",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ali Jassim",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 26,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ahmed Qasim",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Jalal Hassan",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 50,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Mohanad Ali",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Zidane Iqbal",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ahmed Maknzi",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Amir Al-Ammari",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ali Yousif",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Aymen Hussein",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 34,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Kevin Yakob",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Aimar Sher",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Marko Farji",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Ahmed Basil",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Merchas Doski",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Zaid Ismail",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Mustafa Saadoun",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "IRQ",
+    "nome": "Frans Putros",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Zion Suzuki",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Yukinari Sugawara",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Shogo Taniguchi",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Ko Itakura",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Yuto Nagatomo",
+    "posicao": "Defensor",
+    "idade": 39,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Shuto Machino",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Ao Tanaka",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Takefusa Kubo",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Keisuke Goto",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Ritsu Doan",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Daizen Maeda",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Keisuke Osako",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Keito Nakamura",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Junya Ito",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 16,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Daichi Kamada",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 14,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Tsuyoshi Watanabe",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Yuito Suzuki",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Ayase Ueda",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 18,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Koki Ogawa",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Ayumu Seko",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Hiroki Ito",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Takehiro Tomiyasu",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Tomoki Hayakawa",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Kaishu Sano",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Junnosuke Suzuki",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JPN",
+    "nome": "Kento Shiogai",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Yazeed Abu Laila",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohammad Abualnadi",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Abdallah Nasib",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Husam Abu Dahab",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Yazan Al-Arab",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Amer Jamous",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohammad Al-Dawoud",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Nour Al-Rawabdeh",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Ali Al-Azaizeh",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 30,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Musa Al-Taamari",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 24,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Odeh Fakhouri",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Nour Bani Attiah",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mahmoud Al-Mardi",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Rajaei Ayed",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Ibrahim Sadeh",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohammad Abu Hashish",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Saleem Obaid",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohammad Abu Zrayq",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Saed Al-Rosan",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohannad Abu Taha",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Nizar Al-Rashdan",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Abdullah Al-Fakhouri",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Ihsan Haddad",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Ali Olwan",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Mohammad bu Ghoush",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "JOR",
+    "nome": "Anas Badawi",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Kim Seung-gyu",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Hanbeom",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Kihyuk",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Kim Minjae",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Kim Moonhwan",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Hwang Heechan",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Son Heungmin",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 56,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Paik Seungho",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Cho Guesung",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Taeseok",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 15,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Hwang Inbeom",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Song Bumkeun",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Donggyeong",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Jo Wije",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Kim Taehyeon",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Park Jinseob",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Bae Junho",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Oh Hyeongyu",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Jaesung",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Yang Hyunjun",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Jo Hyeonwoo",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Seol Youngwoo",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Jens Castrop",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Kim Jingyu",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Eom Jisung",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KOR",
+    "nome": "Lee Kangin",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Raúl Rangel",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Jorge Sánchez",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MEX",
+    "nome": "César Montes",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Edson Álvarez",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 17,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Joah Vásquez",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Erik Lira",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Luis Romo",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Álvaro Fidalgo",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Raúl Jiménez",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 46,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Alexis Veja",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Santiago Giménez",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Carlos Acevedo",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Guillermo Ochoa",
+    "posicao": "Goleiro",
+    "idade": 40,
+    "gols": 30,
+    "participacoesCopas": 6
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Armando González",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Israel Reyes",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Julián Quiñones",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Orbelín Pineda",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 12,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Obed Vargas",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Gilberto Mora",
+    "posicao": "MeioCampista",
+    "idade": 17,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Mateo Chávez",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "César Huerta",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Guillermo Martínez",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Jesús Gallardo",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 43,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Luis Chávez",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Roberto Alvarado",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MEX",
+    "nome": "Brian Gutiérrez",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Yassine Bounou",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Achraf Hakimi",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 11,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Noussair Mazraoui",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Sofyan Amrabat",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Marwane Saadne",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Ayoub Bouaddi",
+    "posicao": "MeioCampista",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Chemsdine Talbi",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Azzedine Ounahi",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 9,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Soufiane Rahimi",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Brahim Díaz",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 15,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Ismaël Saibari",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Munir El Kajoui",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Zakaria El Ouahdi",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Issa Diop",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Neil El Aynaoui",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Yassine Bessime",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Amine Sabai",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Chadi Riad",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Youssef Belammari",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Ayoub El Kaabi",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 36,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Ayoube Amahount",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Ahmed Reda Tagnaouti",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Samir El Mourabet",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Bilal El Khannouss",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Redouane Halhal",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "MAR",
+    "nome": "Anass Salah-Eddine",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Bart Verbruggen",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Lutsharel Geertruida",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Frenkie de Jong",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Virgil van Dijk",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 13,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "NED",
+    "nome": "Nathan Aké",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "NED",
+    "nome": "Jan Paul van Hecke",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Justin Kluivert",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Ryan Gravenberch",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Wout Weghorst",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 14,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "NED",
+    "nome": "Memphis Depay",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 55,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "NED",
+    "nome": "Cody Gakpo",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 23,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Mats Wieffer",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Robin Roefs",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Tijjani Reijnders",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Micky van de Ven",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Guus Til",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Noa Lang",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Donyell Malen",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 13,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "NED",
+    "nome": "Brian Brobbey",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Teun Koopmeiners",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Marten de Roon",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Denzel Dumfries",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 11,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "NED",
+    "nome": "Mark Flekken",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NED",
+    "nome": "Crysencio Summerville",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Jorrel Hato",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NED",
+    "nome": "Quinten Timber",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Max Crocombe",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Tim Payne",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Francis de Vries",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Tyler Bindon",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Michael Boxall",
+    "posicao": "Defensor",
+    "idade": 37,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Callum McCowatt",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Logan Rogerson",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Marko Stamenić",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Chris Wood",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 45,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Sarpreet Singh",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Eli Just",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Alex Paulsen",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Liberato Cacace",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Alex Rufer",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Nando Pijnaker",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Finn Surman",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Kosta Barbarouses",
+    "posicao": "Atacante",
+    "idade": 36,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Ben Waine",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Ben Old",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Jesse Randall",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Michael Woud",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Ryan Thomas",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Callan Elliot",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Lachlan Bayliss",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NZL",
+    "nome": "Tommy Smith",
+    "posicao": "Defensor",
+    "idade": 36,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Orjan Nyland",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Morten Thorsby",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Kristoffer Ajer",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Leo Ostigard",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "David Moller",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Patrick Berg",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Alexander Sorloth",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 26,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Sander Berge",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Erling Haaland",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 57,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Martin Odegaard",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Strand Larsen",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Sander Tangvik",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Egil Selvik",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Fredrik Aursnes",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Fredrik Bjorkan",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Holmgren Pedersen",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Torbjorn Heggem",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Kristian Thorstvedt",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Thelo Aasgaard",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Antonio Nusa",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Andreas Schjelderup",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Oscar Bobb",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Jens Petter Hauge",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Sondre Langas",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Henrik Falchener",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "NOR",
+    "nome": "Julian Ryerson",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Luis Mejía",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Cesar Blackman",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "José Cordoba",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Fidel Escobar",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Edgardo Fariña",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Cristian Martínez",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Tomás Rodríguez",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Adalberto Carrasquilla",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Puma Rodríguez",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Ismael Díaz",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Yoel Bárcenas",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "César Samudio",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Jiovany Ramos",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Carlos Harvey",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Éric Davis",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 79,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Andrés Andrade",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "José Fajardo",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 17,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Cecílio Waterman",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 15,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Alberto Quintero",
+    "posicao": "MeioCampista",
+    "idade": 38,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Aníbal Godoy",
+    "posicao": "MeioCampista",
+    "idade": 36,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "César Yanis",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Orlando Mosquera",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Michael Murillo",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Azarias Londoño",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Roderick Miller",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAN",
+    "nome": "Jorge Gutiérrez",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gatito Fernández",
+    "posicao": "Goleiro",
+    "idade": 38,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gustavo Velázquez",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Omar Alderete",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Juan Cáceres",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Fabián Balbuena",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Junior Alonso",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Ramón Sosa",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Diego Gómez",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Antonio Sanabria",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 7,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Miguel Almirón",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 10,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Mauricio",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Orlando Gill",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "José Canale",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Andrés Cubas",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gustavo Gómez",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Damián Bobadilla",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Alejandro Romero Gamarra",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Álex Arce",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Julio Enciso",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Braian Ojeda",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gabriel Ávalos",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gastón Olveira",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Matías Galarza",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Gustavo Caballero",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Isidro Pitta",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "PAR",
+    "nome": "Alexandro Maidana",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Diogo Costa",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Nélson Semedo",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Rúben Dias",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "POR",
+    "nome": "Tomás Araújo",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Diogo Dalot",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Matheus Nunes",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Cristiano Ronaldo",
+    "posicao": "Atacante",
+    "idade": 41,
+    "gols": 43,
+    "participacoesCopas": 5
+  },
+  {
+    "selecao": "POR",
+    "nome": "Bruno Fernandes",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 29,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "POR",
+    "nome": "Gonçalo Guedes",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Bernardo Silva",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 14,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "POR",
+    "nome": "João Félix",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 12,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "POR",
+    "nome": "José Sá",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Renato Veiga",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Gonçalo Inácio",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "João Neves",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Francisco Conceição",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Rafael Leão",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Pedro Neto",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Gonçalo Ramos",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 8,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "João Cancelo",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 12,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "POR",
+    "nome": "Rúben Neves",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "POR",
+    "nome": "Rui Silva",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Vitinha",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Samuel Costa",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "POR",
+    "nome": "Nuno Mendes",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "POR",
+    "nome": "Trincão",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Mahmoud Abunada",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Pedro Miguel",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 34,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Lucas Mendes",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Issa Laye",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Jassem Gaber",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Abdulaziz Hatem",
+    "posicao": "MeioCampista",
+    "idade": 36,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Ahmed Fathy",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Edmilson Junior",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Mohammed Muntari",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Hasan Al-Haydos",
+    "posicao": "Atacante",
+    "idade": 35,
+    "gols": 39,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Akram Afif",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 40,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Karim Boudiaf",
+    "posicao": "MeioCampista",
+    "idade": 35,
+    "gols": 96,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Ayoub Al-Alawi",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Homam Ahmed",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Youssef Abdulrazzaq",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Boualem Khoukhi",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 21,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Ahmed Al-Ganehi",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Sultan Al-Brake",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "AlMoez Ali",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 58,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Ahmed Alaa",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Salah Zakaria",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Meshaal Barsham",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Assim Madibo",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Tahsin Mohammed",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Al-Hashmi Al-Hussain",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "QAT",
+    "nome": "Mohamed Mannaj",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Nawaf Al Aqidi",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Ali Lajami",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Ali Majrashi",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Abdulelah Al Amri",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Hassan Kadesh",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Nasser Al Dawsari",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Musab Al Juwayr",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Ayman Yahya",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Feras Al Brikan",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 16,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Salem Al Dawsari",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 27,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Saleh Al Shehri",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 17,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Saud Abdulhamid",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Nawaf Boushal",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Hassan Tambakti",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Abdullah Al Khaibari",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Ziyad Al Johani",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Khalid Al Ghannam",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Alaa Al Hajji",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Abdullah Al Hamdan",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 13,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Sultan Mandash",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Mohammed Al Owais",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Ahmed Al Kassar",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Mohammed Kanno",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Moteb Al Harbi",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Jehad Thikri",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "KSA",
+    "nome": "Mohammed Abu Al Shamat",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Angus Gunn",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Aaron Hickey",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Andy Robertson",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Grant Hanley",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Kieran Tierney",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Tyller Fletcher",
+    "posicao": "MeioCampista",
+    "idade": 19,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Lyndon Dykes",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Che Adams",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 13,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Ryan Christie",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Liam Kelly",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Jack Hendry",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Ross Steward",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "John Souttar",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Dom Hyam",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Ben Gannon-Doak",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "George Hirst",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Lewis Fergunson",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Lawrence Shankland",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Craig Gordon",
+    "posicao": "Goleiro",
+    "idade": 43,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Nathan Patterson",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Anthony Ralston",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SCO",
+    "nome": "Findlay Curtis",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Yehvann Diouf",
+    "posicao": "Goleiro",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Mamadou Sarr",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Kalidou Koulibaly",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 52,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Abdoulaye Seck",
+    "posicao": "Defensor",
+    "idade": 34,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Idrissa Gana Gueye",
+    "posicao": "MeioCampista",
+    "idade": 36,
+    "gols": 77,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Pathé Ciss",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Assane Diao",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Lamine Camara",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Bamba Dieng",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Sadio Mané",
+    "posicao": "Atacante",
+    "idade": 34,
+    "gols": 54,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Nicolas Jackson",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Iliman Ndiaye",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Chérif Ndiaye",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Ismail Jakobs",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Krépin Diatta",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Édouard Mendy",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Pape Matar Sarr",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Ismaila Sarr",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 19,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Moussa Niakhaté",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Ibrahim Mbaye",
+    "posicao": "Atacante",
+    "idade": 18,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Habib Diarra",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Bara Sapoko Ndiaye",
+    "posicao": "MeioCampista",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Mory Diaw",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Antoine Mendy",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "El Hadji Malich Diouf",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SEN",
+    "nome": "Pape Gueye",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Ronwen Williams",
+    "posicao": "Goleiro",
+    "idade": 34,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Thabang Matuludi",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Khulumani Ndamane",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Teboho Mokoena",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Thalente Mbatha",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Aubrey Modiba",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Oswin Appollis",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Tshepang Moremi",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Lyle Foster",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Relebohile Mofokeng",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Themba Zwane",
+    "posicao": "MeioCampista",
+    "idade": 36,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Thapelo Maseko",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Sphephelo Sithole",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Mbekezeli Mbokazi",
+    "posicao": "Defensor",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Iqraam Rayners",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Sipho Chaine",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Evidence Makgopa",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Samukelo Kabini",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Nkosinathi Sibisi",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Khuliso Mudau",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Ime Okon",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Ricardo Goss",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Jayden Adams",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Olwethu Makhanya",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Kamogelo Sebelebele",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "RSA",
+    "nome": "Bradley Cross",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "David Raya",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Arnau Pubill",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Álex Grimaldo",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Eric García",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Marcos Llorente",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Mikel Merino",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 10,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Ferran Torres",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 24,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Fabián Ruiz",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 6,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Gavi",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Dani Olmo",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 12,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Yeremy Pino",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Pedro Porro",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Joan García",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Aymeric Laporte",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 2,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Álex Baena",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Rodri",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Nico Williams",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Martín Zubimendi",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Lamine Yamal",
+    "posicao": "Atacante",
+    "idade": 18,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Pedri",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Mikel Oyarzabal",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 25,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Pau Cubarsí",
+    "posicao": "Defensor",
+    "idade": 19,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Unai Simón",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Marc Cucurella",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Víctor Muñoz",
+    "posicao": "Atacante",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "ESP",
+    "nome": "Borja Iglesias",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Jacob Zetterström",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Gustaf Lagerbielke",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Victor Lindelöf",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Isak Hien",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Gabriel Gudmundsson",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Herman Johansson",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Lucas Bergvall",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Daniel Svensson",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Alexander Isak",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 18,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Benjamin Nygren",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Anthony Elanga",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Viktor Johansson",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Ken Sema",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Hjalmar Ekdal",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Carl Starfelt",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Jesper Karlstrom",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Viktor Gyökeres",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 21,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Yasin Ayari",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Mattias Svanberg",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Eric Smith",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Alexander Bernhardsson",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Besfort Zenelie",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Kristoffer Nordfeldt",
+    "posicao": "Goleiro",
+    "idade": 36,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Elliot Stroud",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Gustaf Nilsson",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SWE",
+    "nome": "Taha Ali",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Gregor Kobel",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Miro Muheim",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Silvan Widmer",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Nico Elvedi",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Manuel Akanji",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 4,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Denis Zakaria",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Breel Embolo",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 25,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Remo Freuler",
+    "posicao": "MeioCampista",
+    "idade": 34,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Johan Manzambi",
+    "posicao": "MeioCampista",
+    "idade": 20,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Granit Xhaka",
+    "posicao": "MeioCampista",
+    "idade": 33,
+    "gols": 18,
+    "participacoesCopas": 3
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Dan Ndoye",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 8,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Yvon Mvogo",
+    "posicao": "Goleiro",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Ricardo Rodriguez",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Ardon Jashari",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Djibril Sow",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Christian Fassnacht",
+    "posicao": "Atacante",
+    "idade": 32,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Ruben Vargas",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 12,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Eray Comert",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Noah Okafor",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Michel Aebischer",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Marvin Keller",
+    "posicao": "Goleiro",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Fabian Rieder",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Zeki Amdouni",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Aurele Amenda",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Luca Jaquez",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "SUI",
+    "nome": "Cedric Itten",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Abdelmouhib Chamakh",
+    "posicao": "Goleiro",
+    "idade": 24,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Ali Abdi",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Montassar Talbi",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 4,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Omar Rekik",
+    "posicao": "Defensor",
+    "idade": 24,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Adem Arous",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Dylan Bronn",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 2,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Elias Achouri",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Elias Saäd",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Hazem Mastouri",
+    "posicao": "Atacante",
+    "idade": 29,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Mohamed Hadj-Mahmoud",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Ismaël Gharbi",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Ben Hmida",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Rani Khedira",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Khalil Ayari",
+    "posicao": "MeioCampista",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Hannbial",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Aymen Dahmen",
+    "posicao": "Goleiro",
+    "idade": 29,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Ellyes Skhiri",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 4,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Rayan Elloumi",
+    "posicao": "Atacante",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Firas Chawat",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Yan Valéry",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Mortadha Ben Ouanes",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Sabri Ben Hassen",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Moutaz Neffati",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Raed Chikhaoui",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Anis Ben Slimane",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUN",
+    "nome": "Sebastian Tounekti",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Mert Günok",
+    "posicao": "Goleiro",
+    "idade": 37,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Zeki Celik",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Merih Demiral",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Caglar Soyuncu",
+    "posicao": "Defensor",
+    "idade": 30,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Salih Ozcan",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Orkun Kökçü",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Kerem Akturkoglu",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 15,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Arda Güler",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 6,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Deniz Gül",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Hakan Calhanoglu",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 22,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Kenan Yildiz",
+    "posicao": "Atacante",
+    "idade": 21,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Altay Bayindir",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Eren Elmalı",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Abdulkerim Bardakci",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Ozan Kabak",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Ismail Yuksek",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Irfan Can Kahveci",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 6,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Mert Müldür",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Yunus Akgun",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Ferdi Kadıoğlu",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Barış Alper Yılmaz",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Kaan Ayhan",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Ugurcan Cakir",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Oguz Aydin",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Akaydin",
+    "posicao": "Defensor",
+    "idade": 32,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "TUR",
+    "nome": "Can Uzun",
+    "posicao": "Atacante",
+    "idade": 20,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Sergio Rochet",
+    "posicao": "Goleiro",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "José María Giménez",
+    "posicao": "Defensor",
+    "idade": 31,
+    "gols": 8,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "URU",
+    "nome": "Sebastián Cáceres",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Ronald Araujo",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "Manuel Ugarte",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Rodrigo Bentancur",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "Giorgian De Arrascaeta",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 5,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "URU",
+    "nome": "Frederico Valverde",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Darwin Núñez",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 13,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "Nicolás De La Cruz",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 13,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Facundo Pellistri",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Santiago Mele",
+    "posicao": "Goleiro",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Guillermo Varela",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "Agustín Canobbio",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Emiliano Martínez",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Mathías Olivera",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "URU",
+    "nome": "Matías Viña",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Brian Rodríguez",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Rodrigo Aguirre",
+    "posicao": "Atacante",
+    "idade": 31,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Maximiliano Araújo",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Federico Viñas",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Joaquín Piquerez",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Fernando Muslera",
+    "posicao": "Goleiro",
+    "idade": 40,
+    "gols": 50,
+    "participacoesCopas": 4
+  },
+  {
+    "selecao": "URU",
+    "nome": "Santiago Bueno",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Juan Manuel Sanabria",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "URU",
+    "nome": "Rodrigo Zalazar",
+    "posicao": "MeioCampista",
+    "idade": 26,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Matt Turner",
+    "posicao": "Goleiro",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Sergiño Dest",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Chris Richards",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 3,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Tyler Adams",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Antonee Robinson",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 5,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Auston Trusty",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Gio Reyna",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 10,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Ricardo Pepi",
+    "posicao": "Atacante",
+    "idade": 23,
+    "gols": 13,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Christian Pulisic",
+    "posicao": "Atacante",
+    "idade": 27,
+    "gols": 33,
+    "participacoesCopas": 2
+  },
+  {
+    "selecao": "USA",
+    "nome": "Brenden Aaronson",
+    "posicao": "Atacante",
+    "idade": 25,
+    "gols": 9,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Miles Robinson",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Tim Ream",
+    "posicao": "Defensor",
+    "idade": 38,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Weston McKennie",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Cristian Roldan",
+    "posicao": "MeioCampista",
+    "idade": 31,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Alex Freeman",
+    "posicao": "Defensor",
+    "idade": 21,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Malik Tillman",
+    "posicao": "MeioCampista",
+    "idade": 24,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Max Arfsten",
+    "posicao": "Defensor",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Haji Wright",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 7,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Folarin Balogun",
+    "posicao": "Atacante",
+    "idade": 24,
+    "gols": 11,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Tim Weah",
+    "posicao": "Atacante",
+    "idade": 26,
+    "gols": 7,
+    "participacoesCopas": 1
+  },
+  {
+    "selecao": "USA",
+    "nome": "Joe Scally",
+    "posicao": "Defensor",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Matt Freese",
+    "posicao": "Goleiro",
+    "idade": 27,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Chris Brady",
+    "posicao": "Goleiro",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "USA",
+    "nome": "Alex Zendejas",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Otkir Yusupov",
+    "posicao": "Goleiro",
+    "idade": 35,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Abdukodir Husanov",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Khojiakbar Alijonov",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 3,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Farruh Sayfiyev",
+    "posicao": "Defensor",
+    "idade": 35,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Rustam Ashurmatov",
+    "posicao": "Defensor",
+    "idade": 29,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Akmal Mozgovoy",
+    "posicao": "MeioCampista",
+    "idade": 27,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Otabek Shukurov",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Jamshid Iskanderov",
+    "posicao": "MeioCampista",
+    "idade": 32,
+    "gols": 4,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Odijion Xamrobekov",
+    "posicao": "MeioCampista",
+    "idade": 30,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Jaloliddin Masharipov",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 1,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Oston Orunov",
+    "posicao": "MeioCampista",
+    "idade": 25,
+    "gols": 10,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Abduvohid Nematov",
+    "posicao": "Goleiro",
+    "idade": 25,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Sherzod Nasrullayev",
+    "posicao": "Defensor",
+    "idade": 27,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Eldor Shomurodov",
+    "posicao": "Atacante",
+    "idade": 30,
+    "gols": 44,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Umar Eshmurodov",
+    "posicao": "Defensor",
+    "idade": 33,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Botirali Ergashev",
+    "posicao": "Goleiro",
+    "idade": 30,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Dostonbek Kahmdamov",
+    "posicao": "MeioCampista",
+    "idade": 29,
+    "gols": 5,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Abdulla Abdullaev",
+    "posicao": "Defensor",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Azizjon Ganiev",
+    "posicao": "MeioCampista",
+    "idade": 28,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Azizbek Amonov",
+    "posicao": "Atacante",
+    "idade": 28,
+    "gols": 2,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Igor Sergeev",
+    "posicao": "Atacante",
+    "idade": 33,
+    "gols": 25,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Abbosbek Fayzullayev",
+    "posicao": "MeioCampista",
+    "idade": 22,
+    "gols": 9,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Sherzod Esanov",
+    "posicao": "MeioCampista",
+    "idade": 23,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Behruz Karimov",
+    "posicao": "Defensor",
+    "idade": 18,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Avazbek Ulmasaliyev",
+    "posicao": "Defensor",
+    "idade": 26,
+    "gols": 0,
+    "participacoesCopas": 0
+  },
+  {
+    "selecao": "UZB",
+    "nome": "Jahongir Orozov",
+    "posicao": "Defensor",
+    "idade": 22,
+    "gols": 1,
+    "participacoesCopas": 0
+  }
+]

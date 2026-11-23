@@ -1,0 +1,590 @@
+[
+  {
+    "posicao": 1,
+    "nomeSelecao": "Argentina",
+    "pontos": 1877.72,
+    "selecao": "ARG"
+  },
+  {
+    "posicao": 2,
+    "nomeSelecao": "Espanha",
+    "pontos": 1874.71,
+    "selecao": "ESP"
+  },
+  {
+    "posicao": 3,
+    "nomeSelecao": "França",
+    "pontos": 1870.7,
+    "selecao": "FRA"
+  },
+  {
+    "posicao": 4,
+    "nomeSelecao": "Inglaterra",
+    "pontos": 1828.02,
+    "selecao": "ENG"
+  },
+  {
+    "posicao": 5,
+    "nomeSelecao": "Portugal",
+    "pontos": 1767.85,
+    "selecao": "POR"
+  },
+  {
+    "posicao": 6,
+    "nomeSelecao": "Brasil",
+    "pontos": 1765.86,
+    "selecao": "BRA"
+  },
+  {
+    "posicao": 7,
+    "nomeSelecao": "Marrocos",
+    "pontos": 1755.1,
+    "selecao": "MAR"
+  },
+  {
+    "posicao": 8,
+    "nomeSelecao": "Holanda",
+    "pontos": 1753.57,
+    "selecao": "NED"
+  },
+  {
+    "posicao": 9,
+    "nomeSelecao": "Bélgica",
+    "pontos": 1742.24,
+    "selecao": "BEL"
+  },
+  {
+    "posicao": 10,
+    "nomeSelecao": "Alemanha",
+    "pontos": 1735.77,
+    "selecao": "GER"
+  },
+  {
+    "posicao": 11,
+    "nomeSelecao": "Croácia",
+    "pontos": 1720.07,
+    "selecao": "CRO"
+  },
+  {
+    "posicao": 12,
+    "nomeSelecao": "Itália",
+    "pontos": 1703.37,
+    "selecao": null
+  },
+  {
+    "posicao": 13,
+    "nomeSelecao": "Uruguai",
+    "pontos": 1702.35,
+    "selecao": "URU"
+  },
+  {
+    "posicao": 14,
+    "nomeSelecao": "Colômbia",
+    "pontos": 1697.92,
+    "selecao": "COL"
+  },
+  {
+    "posicao": 15,
+    "nomeSelecao": "México",
+    "pontos": 1685.68,
+    "selecao": "MEX"
+  },
+  {
+    "posicao": 16,
+    "nomeSelecao": "Senegal",
+    "pontos": 1682.54,
+    "selecao": "SEN"
+  },
+  {
+    "posicao": 17,
+    "nomeSelecao": "Estados Unidos",
+    "pontos": 1678.82,
+    "selecao": "USA"
+  },
+  {
+    "posicao": 18,
+    "nomeSelecao": "Japão",
+    "pontos": 1661.38,
+    "selecao": "JPN"
+  },
+  {
+    "posicao": 19,
+    "nomeSelecao": "Suíça",
+    "pontos": 1652.43,
+    "selecao": "SUI"
+  },
+  {
+    "posicao": 20,
+    "nomeSelecao": "Equador",
+    "pontos": 1635.64,
+    "selecao": "ECU"
+  },
+  {
+    "posicao": 21,
+    "nomeSelecao": "Dinamarca",
+    "pontos": 1626.09,
+    "selecao": null
+  },
+  {
+    "posicao": 22,
+    "nomeSelecao": "Turquia",
+    "pontos": 1602.95,
+    "selecao": "TUR"
+  },
+  {
+    "posicao": 23,
+    "nomeSelecao": "Irã",
+    "pontos": 1600.01,
+    "selecao": "IRN"
+  },
+  {
+    "posicao": 24,
+    "nomeSelecao": "Canadá",
+    "pontos": 1599.2,
+    "selecao": "CAN"
+  },
+  {
+    "posicao": 25,
+    "nomeSelecao": "Coreia do Sul",
+    "pontos": 1590.69,
+    "selecao": "KOR"
+  },
+  {
+    "posicao": 26,
+    "nomeSelecao": "Nigéria",
+    "pontos": 1589.22,
+    "selecao": null
+  },
+  {
+    "posicao": 27,
+    "nomeSelecao": "Áustria",
+    "pontos": 1587.22,
+    "selecao": "AUT"
+  },
+  {
+    "posicao": 28,
+    "nomeSelecao": "Austrália",
+    "pontos": 1582.72,
+    "selecao": "AUS"
+  },
+  {
+    "posicao": 29,
+    "nomeSelecao": "Argélia",
+    "pontos": 1571.65,
+    "selecao": "ALG"
+  },
+  {
+    "posicao": 30,
+    "nomeSelecao": "Ucrânia",
+    "pontos": 1564.69,
+    "selecao": null
+  },
+  {
+    "posicao": 31,
+    "nomeSelecao": "Egito",
+    "pontos": 1560.23,
+    "selecao": "EGY"
+  },
+  {
+    "posicao": 32,
+    "nomeSelecao": "Noruega",
+    "pontos": 1551.81,
+    "selecao": "NOR"
+  },
+  {
+    "posicao": 33,
+    "nomeSelecao": "Panamá",
+    "pontos": 1550.44,
+    "selecao": "PAN"
+  },
+  {
+    "posicao": 34,
+    "nomeSelecao": "Polônia",
+    "pontos": 1539.27,
+    "selecao": null
+  },
+  {
+    "posicao": 35,
+    "nomeSelecao": "Costa do Marfim",
+    "pontos": 1532.0,
+    "selecao": "CIV"
+  },
+  {
+    "posicao": 36,
+    "nomeSelecao": "Rússia",
+    "pontos": 1526.57,
+    "selecao": null
+  },
+  {
+    "posicao": 37,
+    "nomeSelecao": "País de Gales",
+    "pontos": 1520.0,
+    "selecao": null
+  },
+  {
+    "posicao": 38,
+    "nomeSelecao": "Suécia",
+    "pontos": 1515.88,
+    "selecao": "SWE"
+  },
+  {
+    "posicao": 39,
+    "nomeSelecao": "República Tcheca",
+    "pontos": 1510.15,
+    "selecao": "CZE"
+  },
+  {
+    "posicao": 40,
+    "nomeSelecao": "Tunísia",
+    "pontos": 1504.92,
+    "selecao": "TUN"
+  },
+  {
+    "posicao": 41,
+    "nomeSelecao": "Hungria",
+    "pontos": 1502.88,
+    "selecao": null
+  },
+  {
+    "posicao": 42,
+    "nomeSelecao": "Escócia",
+    "pontos": 1497.93,
+    "selecao": "SCO"
+  },
+  {
+    "posicao": 43,
+    "nomeSelecao": "Camarões",
+    "pontos": 1487.86,
+    "selecao": null
+  },
+  {
+    "posicao": 44,
+    "nomeSelecao": "Paraguai",
+    "pontos": 1485.42,
+    "selecao": "PAR"
+  },
+  {
+    "posicao": 45,
+    "nomeSelecao": "Romênia",
+    "pontos": 1480.2,
+    "selecao": null
+  },
+  {
+    "posicao": 46,
+    "nomeSelecao": "Eslováquia",
+    "pontos": 1478.71,
+    "selecao": null
+  },
+  {
+    "posicao": 47,
+    "nomeSelecao": "Grécia",
+    "pontos": 1477.25,
+    "selecao": null
+  },
+  {
+    "posicao": 48,
+    "nomeSelecao": "Geórgia",
+    "pontos": 1475.13,
+    "selecao": null
+  },
+  {
+    "posicao": 49,
+    "nomeSelecao": "Irlanda",
+    "pontos": 1474.12,
+    "selecao": null
+  },
+  {
+    "posicao": 50,
+    "nomeSelecao": "ReD do Congo",
+    "pontos": 1473.0,
+    "selecao": "COD"
+  },
+  {
+    "posicao": 51,
+    "nomeSelecao": "Bolívia",
+    "pontos": 1436.96,
+    "selecao": null
+  },
+  {
+    "posicao": 52,
+    "nomeSelecao": "Sérvia",
+    "pontos": 1430.94,
+    "selecao": null
+  },
+  {
+    "posicao": 53,
+    "nomeSelecao": "Albânia",
+    "pontos": 1425.79,
+    "selecao": null
+  },
+  {
+    "posicao": 54,
+    "nomeSelecao": "Gabão",
+    "pontos": 1420.64,
+    "selecao": null
+  },
+  {
+    "posicao": 55,
+    "nomeSelecao": "Catar",
+    "pontos": 1419.02,
+    "selecao": "QAT"
+  },
+  {
+    "posicao": 56,
+    "nomeSelecao": "Burkina Faso",
+    "pontos": 1415.44,
+    "selecao": null
+  },
+  {
+    "posicao": 57,
+    "nomeSelecao": "Israel",
+    "pontos": 1410.32,
+    "selecao": null
+  },
+  {
+    "posicao": 58,
+    "nomeSelecao": "EA Unidos",
+    "pontos": 1409.72,
+    "selecao": null
+  },
+  {
+    "posicao": 59,
+    "nomeSelecao": "Angola",
+    "pontos": 1404.57,
+    "selecao": null
+  },
+  {
+    "posicao": 60,
+    "nomeSelecao": "Benim",
+    "pontos": 1400.03,
+    "selecao": null
+  },
+  {
+    "posicao": 61,
+    "nomeSelecao": "Jordânia",
+    "pontos": 1397.9,
+    "selecao": "JOR"
+  },
+  {
+    "posicao": 62,
+    "nomeSelecao": "Zâmbia",
+    "pontos": 1392.33,
+    "selecao": null
+  },
+  {
+    "posicao": 63,
+    "nomeSelecao": "Haiti",
+    "pontos": 1388.38,
+    "selecao": "HAI"
+  },
+  {
+    "posicao": 64,
+    "nomeSelecao": "Jamaica",
+    "pontos": 1376.29,
+    "selecao": null
+  },
+  {
+    "posicao": 65,
+    "nomeSelecao": "Guiné",
+    "pontos": 1372.56,
+    "selecao": null
+  },
+  {
+    "posicao": 66,
+    "nomeSelecao": "Venezuela",
+    "pontos": 1371.62,
+    "selecao": null
+  },
+  {
+    "posicao": 67,
+    "nomeSelecao": "Iraque",
+    "pontos": 1368.99,
+    "selecao": "IRQ"
+  },
+  {
+    "posicao": 68,
+    "nomeSelecao": "Kosovo",
+    "pontos": 1368.59,
+    "selecao": null
+  },
+  {
+    "posicao": 69,
+    "nomeSelecao": "Finlândia",
+    "pontos": 1355.15,
+    "selecao": null
+  },
+  {
+    "posicao": 70,
+    "nomeSelecao": "Peru",
+    "pontos": 1352.99,
+    "selecao": null
+  },
+  {
+    "posicao": 71,
+    "nomeSelecao": "Tadjiquistão",
+    "pontos": 1349.1,
+    "selecao": null
+  },
+  {
+    "posicao": 72,
+    "nomeSelecao": "Síria",
+    "pontos": 1338.82,
+    "selecao": null
+  },
+  {
+    "posicao": 73,
+    "nomeSelecao": "Montenegro",
+    "pontos": 1333.11,
+    "selecao": null
+  },
+  {
+    "posicao": 74,
+    "nomeSelecao": "África do Sul",
+    "pontos": 1332.99,
+    "selecao": "RSA"
+  },
+  {
+    "posicao": 75,
+    "nomeSelecao": "Palau",
+    "pontos": 1329.65,
+    "selecao": null
+  },
+  {
+    "posicao": 76,
+    "nomeSelecao": "Bahrain",
+    "pontos": 1325.96,
+    "selecao": null
+  },
+  {
+    "posicao": 77,
+    "nomeSelecao": "Belarus",
+    "pontos": 1324.21,
+    "selecao": null
+  },
+  {
+    "posicao": 78,
+    "nomeSelecao": "Eslovênia",
+    "pontos": 1323.49,
+    "selecao": null
+  },
+  {
+    "posicao": 79,
+    "nomeSelecao": "Líbia",
+    "pontos": 1318.33,
+    "selecao": null
+  },
+  {
+    "posicao": 80,
+    "nomeSelecao": "Uganda",
+    "pontos": 1307.62,
+    "selecao": null
+  },
+  {
+    "posicao": 81,
+    "nomeSelecao": "Congo",
+    "pontos": 1304.08,
+    "selecao": null
+  },
+  {
+    "posicao": 82,
+    "nomeSelecao": "Mac. do Norte",
+    "pontos": 1302.52,
+    "selecao": null
+  },
+  {
+    "posicao": 83,
+    "nomeSelecao": "Chipre",
+    "pontos": 1301.69,
+    "selecao": null
+  },
+  {
+    "posicao": 84,
+    "nomeSelecao": "Omã",
+    "pontos": 1292.72,
+    "selecao": null
+  },
+  {
+    "posicao": 85,
+    "nomeSelecao": "Armênia",
+    "pontos": 1290.06,
+    "selecao": null
+  },
+  {
+    "posicao": 86,
+    "nomeSelecao": "Ilhas Salomão",
+    "pontos": 1284.35,
+    "selecao": null
+  },
+  {
+    "posicao": 87,
+    "nomeSelecao": "Estônia",
+    "pontos": 1283.83,
+    "selecao": null
+  },
+  {
+    "posicao": 88,
+    "nomeSelecao": "Letônia",
+    "pontos": 1282.91,
+    "selecao": null
+  },
+  {
+    "posicao": 89,
+    "nomeSelecao": "Líbano",
+    "pontos": 1278.04,
+    "selecao": null
+  },
+  {
+    "posicao": 90,
+    "nomeSelecao": "Ilhas Faroe",
+    "pontos": 1277.39,
+    "selecao": null
+  },
+  {
+    "posicao": 91,
+    "nomeSelecao": "Cazaquistão",
+    "pontos": 1268.75,
+    "selecao": null
+  },
+  {
+    "posicao": 92,
+    "nomeSelecao": "China",
+    "pontos": 1265.12,
+    "selecao": null
+  },
+  {
+    "posicao": 93,
+    "nomeSelecao": "Tailândia",
+    "pontos": 1258.32,
+    "selecao": null
+  },
+  {
+    "posicao": 94,
+    "nomeSelecao": "Burundi",
+    "pontos": 1252.66,
+    "selecao": null
+  },
+  {
+    "posicao": 95,
+    "nomeSelecao": "Malawi",
+    "pontos": 1247.63,
+    "selecao": null
+  },
+  {
+    "posicao": 96,
+    "nomeSelecao": "Quênia",
+    "pontos": 1245.95,
+    "selecao": null
+  },
+  {
+    "posicao": 97,
+    "nomeSelecao": "Vietnã",
+    "pontos": 1241.15,
+    "selecao": null
+  },
+  {
+    "posicao": 98,
+    "nomeSelecao": "Islândia",
+    "pontos": 1239.57,
+    "selecao": null
+  }
+]

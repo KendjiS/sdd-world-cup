@@ -1,0 +1,98 @@
+[
+  {
+    "nome": "Estádio Azteca",
+    "cidade": "Cidade do México",
+    "pais": "Mexico",
+    "capacidade": 87523
+  },
+  {
+    "nome": "Estadio Akron",
+    "cidade": "Guadalajara",
+    "pais": "Mexico",
+    "capacidade": 49850
+  },
+  {
+    "nome": "Estadio BBVA",
+    "cidade": "Monterrey",
+    "pais": "Mexico",
+    "capacidade": 53500
+  },
+  {
+    "nome": "MetLife Stadium",
+    "cidade": "Nova York/New Jersey",
+    "pais": "EstadosUnidos",
+    "capacidade": 82500
+  },
+  {
+    "nome": "SoFi Stadium",
+    "cidade": "Los Angeles",
+    "pais": "EstadosUnidos",
+    "capacidade": 70240
+  },
+  {
+    "nome": "AT&T Stadium",
+    "cidade": "Dallas",
+    "pais": "EstadosUnidos",
+    "capacidade": 80000
+  },
+  {
+    "nome": "Levi's Stadium",
+    "cidade": "San Francisco",
+    "pais": "EstadosUnidos",
+    "capacidade": 68500
+  },
+  {
+    "nome": "Lumen Field",
+    "cidade": "Seattle",
+    "pais": "EstadosUnidos",
+    "capacidade": 69000
+  },
+  {
+    "nome": "Gillette Stadium",
+    "cidade": "Boston",
+    "pais": "EstadosUnidos",
+    "capacidade": 65878
+  },
+  {
+    "nome": "Hard Rock Stadium",
+    "cidade": "Miami",
+    "pais": "EstadosUnidos",
+    "capacidade": 65326
+  },
+  {
+    "nome": "Lincoln Financial Field",
+    "cidade": "Filadélfia",
+    "pais": "EstadosUnidos",
+    "capacidade": 69176
+  },
+  {
+    "nome": "Arrowhead Stadium",
+    "cidade": "Kansas City",
+    "pais": "EstadosUnidos",
+    "capacidade": 76416
+  },
+  {
+    "nome": "Mercedes-Benz Stadium",
+    "cidade": "Atlanta",
+    "pais": "EstadosUnidos",
+    "capacidade": 71000
+  },
+  {
+    "nome": "NRG Stadium",
+    "cidade": "Houston",
+    "pais": "EstadosUnidos",
+    "capacidade": 72220
+  },
+  {
+    "nome": "BMO Field",
+    "cidade": "Toronto",
+    "pais": "Canada",
+    "capacidade": 30000
+  },
+  {
+    "nome": "BC Place",
+    "cidade": "Vancouver",
+    "pais": "Canada",
+    "capacidade": 54500
+  }
+]
