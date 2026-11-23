@@ -131,18 +131,62 @@ Não fazem parte da primeira versão:
 
 Os dados serão carregados através de Seed Data.
 
-Dados previstos:
+### Fonte dos dados
 
-- Seleções
-- Grupos
-- Jogadores
-- Estádios
-- Jogos
+Os dados oficiais do torneio estão nos arquivos `.txt` da pasta `fontes/` do protótipo (`C:\Users\kendj\wrk\world-cup\prototipo\fontes`), que são a fonte de verdade. Os principais são:
+
+- `copa2026_cidades_sede_estadios.txt` e `copa2026_estadios.txt`: cidades-sede e estádios
+- `copa2026_cabecas-chave.txt`: cabeças de chave
+- `copa2026_grupos.txt`: grupos e seleções
+- `copa2026_fases.txt`: fases do mundial
+- `copa2026_jogos_primeira_fase.txt`: jogos da fase de grupos
+- `copa2026_Jogos_Segunda_fase.txt`, `copa2026_jogos_oitavas.txt`, `copa2026_jogos_quartas.txt`, `copa2026_jogos_semifinal.txt`, `copa2026_jogo_terceiro_lugar.txt`, `copa2026_jogo_final.txt`: jogos do mata-mata
+- `copa2026_selecoes_jogadores.txt`: elencos
+- `copa2026_ranking_fifa.txt`: ranking FIFA
+- `copa2026_regras_negocio.txt` e `Copa2026_Regra_Terceiros_Colocados.txt`: regras de negócio e classificação dos terceiros colocados
+
+De `prototipo/js/site.js` são usados apenas os códigos FIFA das seleções e as participações em Copas dos jogadores. O restante desse arquivo está desatualizado. Os dados são convertidos em JSON por `tools/seed-generator/` e carregados pelo seeder da aplicação.
+
+Ao implementar funcionalidades relacionadas ao torneio:
+
+- Não gerar dados fictícios
+- Não inventar confrontos
+- Não criar grupos não definidos
+- Utilizar exclusivamente os dados das fontes acima
+
+### Dados previstos
+
+- Seleções: 48
+- Grupos: 12 (A a L)
+- Estádios: 16
+- Fases: 7
+- Jogadores: elencos das 48 seleções
+- Jogos: 104
 - Ranking FIFA
 
-Fonte dos dados: os arquivos `fontes/*.txt` do protótipo (`C:\Users\kendj\wrk\world-cup\prototipo`) são a fonte de verdade. De `prototipo/js/site.js` são usados apenas os códigos FIFA das seleções e as participações em Copas dos jogadores. O restante desse arquivo está desatualizado. Os dados são convertidos em JSON por `tools/seed-generator/` e carregados pelo seeder da aplicação.
+### Fases do mundial
 
-As bandeiras das seleções poderão utilizar o padrão da API pública da FIFA.
+| Fase             | Times | Jogos | Datas              |
+|------------------|-------|-------|--------------------|
+| Fase de Grupos   | 48    | 72    | 11 jun – 2 jul     |
+| Segunda Fase     | 32    | 16    | 28 jun – 3 jul     |
+| Oitavas de Final | 16    | 8     | 4 jul – 9 jul      |
+| Quartas de Final | 8     | 4     | 11 jul – 13 jul    |
+| Semifinais       | 4     | 2     | 15 jul – 16 jul    |
+| 3º Lugar         | 2     | 1     | 18 jul (Miami)     |
+| Final            | 2     | 1     | 19 jul (Nova York) |
+
+Total: 104 jogos. O arquivo `copa2026_fases.txt` informa "total de 102 jogos", mas a soma das suas próprias linhas é 104. Vale o total de 104.
+
+### Imagens da FIFA
+
+As bandeiras das seleções poderão ser obtidas pela API pública da FIFA, usando o código FIFA da seleção:
+
+https://api.fifa.com/api/v3/picture/flags-sq-4/MEX
+
+O logo da FIFA poderá ser obtido pela mesma API:
+
+https://api.fifa.com/api/v3/picture/tournaments-sq-4/285023
 
 ## Estrutura Física
 
