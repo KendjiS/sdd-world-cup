@@ -8,7 +8,7 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddPortalCopaData(builder.Configuration, builder.Environment);
-builder.Services.AddPortalCopaServices();
+builder.Services.AddPortalCopaServices(builder.Configuration);
 
 var app = builder.Build();
 

@@ -1,0 +1,196 @@
+/* ============================================================
+   PortalCopa26 — tema do portal
+   Tokens e paleta do protótipo validado (prototipo/css/site.css),
+   aplicados sobre o Bootstrap 5 através das suas variáveis CSS.
+   Blocos específicos de cada componente ficam nos seus .razor.css.
+   ============================================================ */
+
+/* === TOKENS DO PORTAL === */
+:root {
+    --pc-bg: #151f2e;
+    --pc-surface: #1c2840;
+    --pc-card: #223252;
+    --pc-card-alt: #1e2e4a;
+    --pc-border: #2e4470;
+    --pc-border-soft: #263d62;
+
+    --pc-blue: #1a7fe8;
+    --pc-blue-lt: #4da3f5;
+    --pc-gold: #f5a623;
+    --pc-gold-lt: #ffc048;
+    --pc-green: #22c55e;
+    --pc-red: #f43f5e;
+
+    --pc-txt: #f0f6ff;
+    --pc-txt-soft: #9ab5d8;
+    --pc-txt-muted: #5a7ea8;
+
+    --pc-nav-h: 64px;
+    --pc-r: 8px;
+    --pc-r-lg: 12px;
+}
+
+/* === MAPEAMENTO PARA O BOOTSTRAP ===
+   Declarado também em [data-bs-theme=dark] para prevalecer sobre
+   as variáveis do tema escuro do Bootstrap. */
+:root,
+[data-bs-theme=dark] {
+    --bs-body-bg: var(--pc-bg);
+    --bs-body-bg-rgb: 21, 31, 46;
+    --bs-body-color: var(--pc-txt);
+    --bs-body-color-rgb: 240, 246, 255;
+    --bs-body-font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    --bs-body-font-size: 0.9375rem;
+    --bs-body-line-height: 1.55;
+    --bs-emphasis-color: var(--pc-txt);
+    --bs-secondary-color: var(--pc-txt-soft);
+    --bs-tertiary-color: var(--pc-txt-muted);
+    --bs-secondary-bg: var(--pc-surface);
+    --bs-tertiary-bg: var(--pc-card-alt);
+    --bs-border-color: var(--pc-border);
+    --bs-border-radius: var(--pc-r);
+    --bs-border-radius-lg: var(--pc-r-lg);
+    --bs-link-color: var(--pc-blue-lt);
+    --bs-link-color-rgb: 77, 163, 245;
+    --bs-link-hover-color: var(--pc-txt);
+    --bs-link-hover-color-rgb: 240, 246, 255;
+    --bs-primary: var(--pc-blue);
+    --bs-primary-rgb: 26, 127, 232;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: var(--pc-bg); }
+::-webkit-scrollbar-thumb { background: var(--pc-border); border-radius: 3px; }
+
+/* === CONTAINER DE PÁGINA === */
+.pc-page {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+/* === CARDS (Bootstrap) === */
+.card {
+    --bs-card-bg: var(--pc-card);
+    --bs-card-border-color: var(--pc-border);
+    --bs-card-border-radius: var(--pc-r-lg);
+    --bs-card-color: var(--pc-txt);
+    overflow: hidden;
+}
+
+/* === BOTÕES (variantes sobre .btn do Bootstrap) === */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+
+.btn-gold {
+    --bs-btn-color: #080c14;
+    --bs-btn-bg: var(--pc-gold);
+    --bs-btn-border-color: var(--pc-gold);
+    --bs-btn-hover-color: #080c14;
+    --bs-btn-hover-bg: var(--pc-gold-lt);
+    --bs-btn-hover-border-color: var(--pc-gold-lt);
+    --bs-btn-active-color: #080c14;
+    --bs-btn-active-bg: var(--pc-gold-lt);
+    --bs-btn-active-border-color: var(--pc-gold-lt);
+    --bs-btn-focus-shadow-rgb: 245, 166, 35;
+}
+
+.btn-gold:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(245, 166, 35, 0.35);
+}
+
+.btn-outline-portal {
+    --bs-btn-color: var(--pc-txt-soft);
+    --bs-btn-border-color: var(--pc-border);
+    --bs-btn-hover-color: var(--pc-txt);
+    --bs-btn-hover-bg: transparent;
+    --bs-btn-hover-border-color: var(--pc-txt-soft);
+    --bs-btn-active-color: var(--pc-txt);
+    --bs-btn-active-bg: transparent;
+    --bs-btn-active-border-color: var(--pc-txt-soft);
+    --bs-btn-focus-shadow-rgb: 154, 181, 216;
+}
+
+.btn-sm { --bs-btn-font-size: 0.78rem; --bs-btn-padding-x: 0.85rem; --bs-btn-padding-y: 0.38rem; }
+.btn-lg { --bs-btn-font-size: 0.95rem; --bs-btn-padding-x: 1.75rem; --bs-btn-padding-y: 0.8rem; }
+
+/* === BADGES (variantes sobre .badge do Bootstrap) === */
+.badge {
+    border-radius: 4px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.22em 0.6em;
+}
+
+.badge-next { background: rgba(34, 197, 94, 0.1); color: var(--pc-green); }
+.badge-group { background: rgba(0, 100, 200, 0.12); color: var(--pc-blue-lt); }
+.badge-gold { background: rgba(245, 166, 35, 0.12); color: var(--pc-gold); }
+
+/* === SEÇÕES === */
+.pc-section { margin-bottom: 2.75rem; }
+
+.pc-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.2rem;
+}
+
+.pc-section-title {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.pc-section-title::before {
+    content: '';
+    display: block;
+    width: 3px;
+    height: 1em;
+    background: var(--pc-gold);
+    border-radius: 2px;
+}
+
+.text-gold { color: var(--pc-gold); }
+.text-soft { color: var(--pc-txt-soft); }
+
+/* === BLAZOR (erros e validação) === */
+h1:focus { outline: none; }
+
+.valid.modified:not([type=checkbox]) { outline: 1px solid #26b050; }
+.invalid { outline: 1px solid #e50000; }
+.validation-message { color: #e50000; }
+
+.blazor-error-boundary {
+    background: #b32121;
+    padding: 1rem;
+    color: white;
+}
+
+.blazor-error-boundary::after { content: "Ocorreu um erro."; }

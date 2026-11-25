@@ -1,0 +1,37 @@
+@* Barra de navegação superior do portal. O menu em telas estreitas funciona só com CSS (checkbox + label). *@
+
+<header class="pc-nav">
+    <a href="" class="pc-nav-brand">
+        <img src="@LogoCopa.Url" alt="Copa do Mundo FIFA 2026" onerror="this.style.display='none'" />
+        <span>Portal<span class="text-gold">Copa26</span></span>
+    </a>
+
+    <input type="checkbox" id="pc-nav-toggle" class="pc-nav-toggle-input" aria-label="Abrir menu de navegação" />
+    <label for="pc-nav-toggle" class="pc-nav-toggle" title="Menu">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true">
+            <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+    </label>
+
+    <nav class="pc-nav-links" aria-label="Navegação principal">
+        @foreach (var item in Itens)
+        {
+            <NavLink href="@item.Href" Match="@(item.Href == "" ? NavLinkMatch.All : NavLinkMatch.Prefix)">@item.Texto</NavLink>
+        }
+    </nav>
+
+    <div class="pc-nav-spacer"></div>
+    <div class="pc-nav-badge">⚽ FIFA 2026</div>
+</header>
+
+@code {
+    private static readonly (string Href, string Texto)[] Itens =
+    [
+        ("", "Home"),
+        ("jogos", "Jogos"),
+        ("grupos", "Grupos"),
+        ("selecoes", "Seleções"),
+        ("ranking", "Ranking"),
+        ("simulador", "Simulador"),
+    ];
+}

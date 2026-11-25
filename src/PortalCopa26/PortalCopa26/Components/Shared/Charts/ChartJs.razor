@@ -1,0 +1,80 @@
+@* Gráfico Chart.js genérico. Recebe a configuração do Chart.js (type, data, options) como objeto
+   serializável e delega a renderização ao módulo wwwroot/js/charts.js via JSInterop.
+   Requer um render mode interativo (OnAfterRenderAsync não executa em SSR estático). *@
+@implements IAsyncDisposable
+@inject IJSRuntime JS
+
+<div class="chartjs-container @CssClass" style="position:relative;height:@Altura">
+    <canvas @ref="canvas" role="img" aria-label="@Descricao"></canvas>
+</div>
+
+@code {
+    private const string CaminhoModulo = "./js/charts.js";
+
+    private ElementReference canvas;
+    private IJSObjectReference? modulo;
+    private object? configuracaoRenderizada;
+    private bool disposed;
+
+    /// <summary>Configuração do Chart.js (<c>type</c>, <c>data</c>, <c>options</c>), serializada em camelCase.</summary>
+    [Parameter, EditorRequired]
+    public object Configuracao { get; set; } = default!;
+
+    /// <summary>Altura do contêiner do gráfico (valor CSS).</summary>
+    [Parameter]
+    public string Altura { get; set; } = "300px";
+
+    /// <summary>Descrição acessível do gráfico.</summary>
+    [Parameter]
+    public string? Descricao { get; set; }
+
+    [Parameter]
+    public string? CssClass { get; set; }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (disposed || ReferenceEquals(configuracaoRenderizada, Configuracao))
+        {
+            return;
+        }
+
+        try
+        {
+            if (firstRender || modulo is null)
+            {
+                modulo = await JS.InvokeAsync<IJSObjectReference>("import", CaminhoModulo);
+                await modulo.InvokeVoidAsync("criarGrafico", canvas, Configuracao);
+            }
+            else
+            {
+                await modulo.InvokeVoidAsync("atualizarGrafico", canvas, Configuracao);
+            }
+
+            configuracaoRenderizada = Configuracao;
+        }
+        catch (JSDisconnectedException)
+        {
+            // Circuito encerrado durante a renderização: nada a fazer.
+        }
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        disposed = true;
+
+        if (modulo is null)
+        {
+            return;
+        }
+
+        try
+        {
+            await modulo.InvokeVoidAsync("destruirGrafico", canvas);
+            await modulo.DisposeAsync();
+        }
+        catch (JSDisconnectedException)
+        {
+            // O navegador já não está conectado; o gráfico some com a página.
+        }
+    }
+}

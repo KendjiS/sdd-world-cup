@@ -1,0 +1,23 @@
+@* Bandeira de uma seleção pela API pública da FIFA. Se a imagem não carregar, o código FIFA é exibido no lugar. *@
+
+<img src="@Url" alt="@(Nome ?? CodigoFifa)" class="bandeira bandeira-@Tamanho" loading="lazy"
+     onerror="this.style.display='none';this.nextElementSibling.style.display='inline-flex'" />
+<span class="bandeira bandeira-@Tamanho bandeira-fallback" aria-hidden="true">@CodigoFifa</span>
+
+@code {
+    public const string UrlBase = "https://api.fifa.com/api/v3/picture/flags-sq-4/";
+
+    /// <summary>Código FIFA de três letras (ex.: BRA).</summary>
+    [Parameter, EditorRequired]
+    public string CodigoFifa { get; set; } = string.Empty;
+
+    /// <summary>Nome da seleção, usado como texto alternativo.</summary>
+    [Parameter]
+    public string? Nome { get; set; }
+
+    /// <summary>Tamanho: xs, sm, md ou lg.</summary>
+    [Parameter]
+    public string Tamanho { get; set; } = "sm";
+
+    private string Url => UrlBase + CodigoFifa;
+}

@@ -1,7 +1,9 @@
 using Microsoft.Data.Sqlite;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using PortalCopa26.Data;
 using PortalCopa26.Data.Seed;
+using PortalCopa26.Services;
 
 namespace PortalCopa26.Extensions;
 
@@ -33,10 +35,18 @@ public static class ServiceCollectionExtensions
     }
 
     /// <summary>Registra os serviços de aplicação do portal.</summary>
-    public static IServiceCollection AddPortalCopaServices(this IServiceCollection services)
+    public static IServiceCollection AddPortalCopaServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddTransient<DatabaseSeeder>();
         services.AddTransient<DatabaseInitializer>();
+
+        services.TryAddSingleton(TimeProvider.System);
+        services.Configure<ProximosJogosOptions>(configuration.GetSection(ProximosJogosOptions.SectionName));
+
+        services.AddScoped<ITorneioService, TorneioService>();
+        services.AddScoped<IJogoService, JogoService>();
+        services.AddScoped<IRankingFifaService, RankingFifaService>();
+
         return services;
     }
 

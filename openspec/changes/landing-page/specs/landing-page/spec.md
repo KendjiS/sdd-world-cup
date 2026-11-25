@@ -58,8 +58,8 @@ A seção "Próximos Jogos" SHALL listar todos os jogos dos dois primeiros dias 
 
 #### Scenario: Agrupamento por dia
 - **WHEN** a data de referência é 05/06/2026
-- **THEN** a seção exibe o grupo "Quinta-feira, 11 de junho de 2026" com 2 jogos: México x África do Sul às 16:00 e República da Coreia x Tchéquia às 23:00
-- **AND** exibe o grupo "Sexta-feira, 12 de junho de 2026" com 2 jogos: Canadá x Bósnia e Herzegovina às 16:00 e EUA x Paraguai às 22:00
+- **THEN** a seção exibe o grupo "Quinta-feira, 11 de junho de 2026" com 2 jogos: México x África do Sul às 16:00 e Coreia do Sul x República Tcheca às 23:00
+- **AND** exibe o grupo "Sexta-feira, 12 de junho de 2026" com 2 jogos: Canadá x Bósnia e Herzegovina às 16:00 e Estados Unidos x Paraguai às 22:00
 
 #### Scenario: Dia definido pelo horário de Brasília
 - **WHEN** um jogo acontece à 01:00 de 14/06/2026 no horário de Brasília (Austrália x Turquia)
@@ -74,7 +74,7 @@ Cada dia SHALL mostrar seu título por extenso em português e a quantidade de j
 
 #### Scenario: Jogo da fase de grupos
 - **WHEN** o jogo México x África do Sul é exibido
-- **THEN** o cartão mostra México (MEX) e África do Sul (RSA) com suas bandeiras, o horário 16:00, o grupo A e o estádio com a cidade Cidade do México
+- **THEN** o cartão mostra México (MEX) e África do Sul (RSA) com suas bandeiras, o horário 16:00, o grupo A e "Estádio Azteca · Cidade do México"
 
 #### Scenario: Vaga de mata-mata indefinida
 - **WHEN** um jogo de mata-mata sem seleção definida é exibido
