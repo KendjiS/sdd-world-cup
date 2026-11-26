@@ -1,0 +1,86 @@
+@using System.Globalization
+@using PortalCopa26.Models.Dtos
+
+<section class="pc-section">
+    <div class="pc-section-header">
+        <h2 class="pc-section-title">Próximos Jogos</h2>
+        <a href="jogos" class="btn btn-outline-portal btn-sm">Ver todos</a>
+    </div>
+
+    @if (Dias.Count == 0)
+    {
+        <p class="sem-jogos">Nenhum jogo programado a partir da data de referência.</p>
+    }
+    else
+    {
+        @foreach (var dia in Dias)
+        {
+            <div class="day-group">
+                <div class="day-label">
+                    <h3>@FormatarDia(dia.Data)</h3>
+                    <span class="badge badge-next">@dia.Jogos.Count @(dia.Jogos.Count == 1 ? "jogo" : "jogos")</span>
+                </div>
+
+                <div class="game-list">
+                    @foreach (var jogo in dia.Jogos)
+                    {
+                        <div class="game-card">
+                            @LadoDoJogo((jogo.Mandante, false))
+
+                            <div class="game-center">
+                                <span class="badge badge-next">Próximo</span>
+                                <div class="game-score">— : —</div>
+                                <div class="game-time">
+                                    @jogo.DataHoraBrasilia.ToString("HH:mm", PtBr)
+                                    @if (jogo.Grupo is not null)
+                                    {
+                                        <span class="badge badge-group ms-1">Grp @jogo.Grupo</span>
+                                    }
+                                    else if (jogo.Rotulo is not null)
+                                    {
+                                        <span class="badge badge-gold ms-1">@jogo.Rotulo</span>
+                                    }
+                                </div>
+                                <div class="game-meta">@jogo.Estadio · @jogo.Cidade</div>
+                            </div>
+
+                            @LadoDoJogo((jogo.Visitante, true))
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    }
+</section>
+
+@code {
+    private static readonly CultureInfo PtBr = CultureInfo.GetCultureInfo("pt-BR");
+
+    /// <summary>Dias com jogos, em ordem cronológica; os horários já estão em Brasília.</summary>
+    [Parameter, EditorRequired]
+    public IReadOnlyList<DiaJogosDto> Dias { get; set; } = [];
+
+    /// <summary>Ex.: "Quinta-feira, 11 de junho de 2026".</summary>
+    private static string FormatarDia(DateOnly data)
+    {
+        var texto = data.ToString("dddd, d 'de' MMMM 'de' yyyy", PtBr);
+        return char.ToUpper(texto[0], PtBr) + texto[1..];
+    }
+
+    private RenderFragment<(LadoJogoDto Lado, bool Visitante)> LadoDoJogo => args => __builder =>
+    {
+        <div class="team-side @(args.Visitante ? "away" : null)">
+            @if (args.Lado.Definido)
+            {
+                <BandeiraSelecao CodigoFifa="@(args.Lado.CodigoFifa!)" Nome="@args.Lado.Nome" Tamanho="sm" />
+            }
+            <div>
+                <div class="team-name">@args.Lado.Nome</div>
+                @if (args.Lado.Definido)
+                {
+                    <div class="team-code">@args.Lado.CodigoFifa</div>
+                }
+            </div>
+        </div>
+    };
+}

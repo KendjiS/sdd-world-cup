@@ -1,0 +1,29 @@
+@using PortalCopa26.Models.Dtos
+
+<div class="row g-3 stat-strip" aria-label="Estatísticas da Copa">
+    @foreach (var item in Itens)
+    {
+        <div class="col-6 col-lg-3">
+            <div class="stat-card">
+                <div class="stat-icon stat-icon-@item.Cor" aria-hidden="true">@item.Icone</div>
+                <div>
+                    <div class="stat-val">@item.Valor</div>
+                    <div class="stat-lbl">@item.Rotulo</div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    [Parameter, EditorRequired]
+    public ResumoTorneioDto Resumo { get; set; } = default!;
+
+    private IEnumerable<(string Icone, string Cor, int Valor, string Rotulo)> Itens =>
+    [
+        ("🏆", "blue", Resumo.Selecoes, "Seleções"),
+        ("📊", "gold", Resumo.Grupos, "Grupos"),
+        ("⚽", "green", Resumo.Jogos, "Jogos"),
+        ("🌍", "red", Resumo.Estadios, "Estádios"),
+    ];
+}

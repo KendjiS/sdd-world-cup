@@ -1,8 +1,10 @@
+# landing-page Specification
+
 ## Purpose
 
 Define a página inicial do PortalCopa26: a porta de entrada do portal, que apresenta a Copa do Mundo 2026 com os países-sede, números do torneio, próximos jogos, o Top 10 do Ranking FIFA e a chamada para o simulador, sempre com dados lidos do banco da aplicação.
 
-## ADDED Requirements
+## Requirements
 
 ### Requirement: Composição da página inicial
 A URL raiz (`/`) SHALL exibir, nesta ordem: a seção hero, as estatísticas da Copa, os próximos jogos e, lado a lado em telas largas, o gráfico do Ranking FIFA e o painel do simulador. O título da aba do navegador SHALL identificar o portal e a Copa do Mundo FIFA 2026.
@@ -70,11 +72,15 @@ A seção "Próximos Jogos" SHALL listar todos os jogos dos dois primeiros dias 
 - **THEN** a seção exibe a mensagem "Nenhum jogo programado a partir da data de referência."
 
 ### Requirement: Cartão de jogo
-Cada dia SHALL mostrar seu título por extenso em português e a quantidade de jogos ("1 jogo" ou "N jogos"). Cada jogo SHALL mostrar, para mandante e visitante, a bandeira, o nome e o código FIFA, além do horário em Brasília (HH:mm), o grupo (quando houver), o estádio e a cidade. Em jogos de mata-mata com seleções ainda não definidas, a descrição da vaga SHALL ocupar o lugar do nome, sem bandeira.
+Cada dia SHALL mostrar seu título por extenso em português e a quantidade de jogos ("1 jogo" ou "N jogos"). Cada jogo SHALL mostrar, para mandante e visitante, a bandeira, o nome e o código FIFA, além do horário em Brasília (HH:mm), o grupo (quando houver) ou, em jogos de mata-mata, o rótulo da rodada, o estádio e a cidade. Em jogos de mata-mata com seleções ainda não definidas, a descrição da vaga SHALL ocupar o lugar do nome, sem bandeira.
 
 #### Scenario: Jogo da fase de grupos
 - **WHEN** o jogo México x África do Sul é exibido
 - **THEN** o cartão mostra México (MEX) e África do Sul (RSA) com suas bandeiras, o horário 16:00, o grupo A e "Estádio Azteca · Cidade do México"
+
+#### Scenario: Rótulo da rodada no mata-mata
+- **WHEN** o jogo da final é exibido
+- **THEN** o cartão mostra o rótulo "Final" no lugar do grupo
 
 #### Scenario: Vaga de mata-mata indefinida
 - **WHEN** um jogo de mata-mata sem seleção definida é exibido

@@ -1,0 +1,24 @@
+.simulador-card {
+    background: linear-gradient(135deg, #0d1f3c, #0a1628);
+    border-color: rgba(0, 100, 200, 0.3);
+}
+
+.simulador-card .card-body { padding: 1.75rem; }
+
+.simulador-icone {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.simulador-titulo {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.simulador-texto {
+    color: var(--pc-txt-soft);
+    font-size: 0.85rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}

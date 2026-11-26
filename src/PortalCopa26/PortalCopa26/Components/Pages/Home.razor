@@ -1,7 +1,57 @@
 ﻿@page "/"
+@using Microsoft.Extensions.Options
+@using PortalCopa26.Components.Pages.LandingPage
+@using PortalCopa26.Models.Dtos
+@using PortalCopa26.Services
+@inject ITorneioService TorneioService
+@inject IJogoService JogoService
+@inject IRankingFifaService RankingFifaService
+@inject IOptions<ProximosJogosOptions> ProximosJogosOptions
+@inject TimeProvider TimeProvider
 
-<PageTitle>Home</PageTitle>
+<PageTitle>PortalCopa26 — Copa do Mundo FIFA 2026</PageTitle>
 
-<h1>Hello, world!</h1>
+<HeroSection PaisesSede="paisesSede" />
 
-Welcome to your new app.
+<div class="pc-page">
+    <EstatisticasCopa Resumo="resumo" />
+
+    <ProximosJogos Dias="proximosJogos" />
+
+    <div class="row g-4 align-items-start">
+        <div class="col-12 col-lg-8">
+            <RankingFifaChart @rendermode="InteractiveServer" Itens="ranking" />
+        </div>
+        <div class="col-12 col-lg-4">
+            <SimuladorPainel />
+        </div>
+    </div>
+</div>
+
+@code {
+    private const int DiasDeProximosJogos = 2;
+    private const int TamanhoRanking = 10;
+
+    private IReadOnlyList<PaisSedeDto> paisesSede = [];
+    private ResumoTorneioDto resumo = new(0, 0, 0, 0);
+    private IReadOnlyList<DiaJogosDto> proximosJogos = [];
+    private IReadOnlyList<RankingItemDto> ranking = [];
+
+    protected override async Task OnInitializedAsync()
+    {
+        var dataReferencia = ProximosJogosOptions.Value.ObterDataReferencia(TimeProvider);
+
+        // Cada serviço cria o próprio DbContext, então as consultas podem rodar em paralelo.
+        var paisesTask = TorneioService.ObterPaisesSedeAsync();
+        var resumoTask = TorneioService.ObterResumoAsync();
+        var jogosTask = JogoService.ObterProximosJogosAsync(dataReferencia, DiasDeProximosJogos);
+        var rankingTask = RankingFifaService.ObterTopAsync(TamanhoRanking);
+
+        await Task.WhenAll(paisesTask, resumoTask, jogosTask, rankingTask);
+
+        paisesSede = paisesTask.Result;
+        resumo = resumoTask.Result;
+        proximosJogos = jogosTask.Result;
+        ranking = rankingTask.Result;
+    }
+}

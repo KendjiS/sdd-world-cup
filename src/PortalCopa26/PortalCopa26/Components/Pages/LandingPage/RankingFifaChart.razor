@@ -1,0 +1,94 @@
+@* Gráfico de barras horizontais do ranking FIFA. Precisa de render mode interativo (usa o ChartJs). *@
+@using PortalCopa26.Models.Dtos
+
+<section class="pc-section mb-0">
+    <div class="pc-section-header">
+        <h2 class="pc-section-title">@Titulo</h2>
+        <a href="ranking" class="btn btn-outline-portal btn-sm">Ranking completo</a>
+    </div>
+    <div class="card ranking-card">
+        <ChartJs Configuracao="configuracao" Altura="340px" Descricao="@($"{Titulo}: {Itens.Count} primeiras seleções e suas pontuações")" />
+    </div>
+</section>
+
+@code {
+    private static readonly string[] CoresPodio = ["#f5a623", "#adb5c7", "#cd7f32"]; // ouro, prata, bronze
+    private const string CorBarra = "rgba(74,136,220,0.75)";
+    private const string CorBordaBarra = "#4a88dc";
+
+    private object configuracao = default!;
+
+    /// <summary>Entradas do ranking em ordem de posição. Serializável: é passado de SSR para o modo interativo.</summary>
+    [Parameter, EditorRequired]
+    public IReadOnlyList<RankingItemDto> Itens { get; set; } = [];
+
+    [Parameter]
+    public string Titulo { get; set; } = "Ranking FIFA";
+
+    protected override void OnParametersSet() => configuracao = MontarConfiguracao(Itens);
+
+    private static object MontarConfiguracao(IReadOnlyList<RankingItemDto> itens)
+    {
+        var cores = itens.Select((_, i) => i < CoresPodio.Length ? CoresPodio[i] : CorBarra).ToArray();
+        var bordas = itens.Select((_, i) => i < CoresPodio.Length ? CoresPodio[i] : CorBordaBarra).ToArray();
+
+        // Início do eixo: menor pontuação menos 100, arredondada para baixo na centena (o protótipo fixava 1600).
+        var minimo = itens.Count == 0 ? 0m : Math.Floor((itens.Min(i => i.Pontos) - 100m) / 100m) * 100m;
+
+        return new
+        {
+            type = "bar",
+            data = new
+            {
+                labels = itens.Select(i => $"{i.Posicao}. {i.Selecao}").ToArray(),
+                datasets = new[]
+                {
+                    new
+                    {
+                        label = "Pontuação FIFA",
+                        data = itens.Select(i => i.Pontos).ToArray(),
+                        backgroundColor = cores,
+                        borderColor = bordas,
+                        borderWidth = 1.5,
+                        borderRadius = 5,
+                        borderSkipped = false,
+                    },
+                },
+            },
+            options = new
+            {
+                indexAxis = "y",
+                responsive = true,
+                maintainAspectRatio = false,
+                formatoNumero = "pt-BR",
+                sufixoValor = "pts",
+                plugins = new
+                {
+                    legend = new { display = false },
+                    tooltip = new
+                    {
+                        backgroundColor = "#1c2840",
+                        borderColor = "#2e4470",
+                        borderWidth = 1,
+                        titleColor = "#f0f6ff",
+                        bodyColor = "#9ab5d8",
+                    },
+                },
+                scales = new
+                {
+                    x = new
+                    {
+                        min = Math.Max(0m, minimo),
+                        grid = new { color = "rgba(46,68,112,0.5)" },
+                        ticks = new { color = "#9ab5d8", font = new { size = 11 } },
+                    },
+                    y = new
+                    {
+                        grid = new { display = false },
+                        ticks = new { color = "#f0f6ff", font = new { size = 12 } },
+                    },
+                },
+            },
+        };
+    }
+}

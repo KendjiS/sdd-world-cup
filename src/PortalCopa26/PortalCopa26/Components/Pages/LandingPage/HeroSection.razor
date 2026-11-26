@@ -1,0 +1,48 @@
+@using PortalCopa26.Models.Dtos
+
+<section class="hero">
+    <div class="hero-inner">
+        <div class="hero-text">
+            <div class="hero-eyebrow"><span></span>Copa do Mundo FIFA</div>
+            <h1 class="hero-title">
+                O Mundo inteiro<br />
+                no seu <span class="text-gold">portal</span>
+            </h1>
+            <p class="hero-desc">
+                Acompanhe todos os jogos, grupos, seleções e classificação da Copa do Mundo FIFA 2026.
+                Simule resultados e veja como sua seleção chega à final.
+            </p>
+            <div class="hero-actions">
+                <a href="simulador" class="btn btn-gold btn-lg">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 3l14 9-14 9V3z" /></svg>
+                    Abrir Simulador
+                </a>
+                <a href="jogos" class="btn btn-outline-portal btn-lg">Ver Jogos</a>
+            </div>
+        </div>
+
+        <div class="hero-logo">
+            <img src="@LogoCopa.Url" alt="Copa do Mundo FIFA 2026" onerror="this.style.display='none'" />
+            <div class="hero-logo-label">FIFA World Cup 2026™</div>
+        </div>
+
+        <div class="hero-flags">
+            @foreach (var pais in PaisesSede)
+            {
+                <div class="host-card">
+                    <BandeiraSelecao CodigoFifa="@pais.CodigoFifa" Nome="@pais.Nome" Tamanho="md" />
+                    <div class="host-card-info">
+                        <strong>@pais.Nome</strong>
+                        <span>País Sede · @pais.QuantidadeEstadios @(pais.QuantidadeEstadios == 1 ? "estádio" : "estádios")</span>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@code {
+    /// <summary>Países-sede na ordem de exibição.</summary>
+    [Parameter, EditorRequired]
+    public IReadOnlyList<PaisSedeDto> PaisesSede { get; set; } = [];
+}

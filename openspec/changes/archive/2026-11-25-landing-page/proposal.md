@@ -35,7 +35,7 @@ Fora do escopo: páginas Jogos, Grupos, Seleções, Ranking completo e Simulador
 
 - `src/PortalCopa26/PortalCopa26/Components/`: novo `Layout/MainLayout`, nova `Pages/Home.razor`, nova pasta `Pages/LandingPage/`, novo componente de gráfico compartilhado. Remoção de `Counter.razor`, `Weather.razor` e `NavMenu.razor`.
 - `Services/`: novos serviços de consulta e DTOs. Registro em `Extensions/ServiceCollectionExtensions.cs`.
-- `wwwroot/`: tema CSS do portal portado do protótipo e módulo JS de integração com Chart.js. O Chart.js local já existe.
+- `wwwroot/`: tema CSS do portal portado do protótipo (`css/portal.css`, que substitui o `app.css` do template) e módulo JS de integração com Chart.js. O Chart.js local já existe.
 - `appsettings.json`: nova seção com a data de referência dos próximos jogos.
 - Sem alterações no modelo de dados, nas migrations ou no seed.
 - Dependência de rede apenas para imagens da API pública da FIFA (bandeiras e logo), já previstas no CLAUDE.md, com fallback quando indisponíveis.
