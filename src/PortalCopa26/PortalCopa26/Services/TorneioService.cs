@@ -7,14 +7,6 @@ namespace PortalCopa26.Services;
 
 public sealed class TorneioService(IDbContextFactory<PortalCopaDbContext> dbFactory) : ITorneioService
 {
-    /// <summary>Países-sede na ordem de exibição, com nome e código FIFA.</summary>
-    private static readonly (PaisSede Pais, string Nome, string CodigoFifa)[] PaisesSede =
-    [
-        (PaisSede.EstadosUnidos, "Estados Unidos", "USA"),
-        (PaisSede.Canada, "Canadá", "CAN"),
-        (PaisSede.Mexico, "México", "MEX"),
-    ];
-
     public async Task<ResumoTorneioDto> ObterResumoAsync(CancellationToken cancellationToken = default)
     {
         await using var db = await dbFactory.CreateDbContextAsync(cancellationToken);
@@ -38,8 +30,8 @@ public sealed class TorneioService(IDbContextFactory<PortalCopaDbContext> dbFact
             .Select(g => new { Pais = g.Key, Quantidade = g.Count() })
             .ToDictionaryAsync(x => x.Pais, x => x.Quantidade, cancellationToken);
 
-        return PaisesSede
-            .Select(p => new PaisSedeDto(p.Nome, p.CodigoFifa, estadiosPorPais.GetValueOrDefault(p.Pais)))
+        return PaisSedeExtensions.OrdemExibicao
+            .Select(p => new PaisSedeDto(p.Nome(), p.CodigoFifa(), estadiosPorPais.GetValueOrDefault(p)))
             .ToList();
     }
 }

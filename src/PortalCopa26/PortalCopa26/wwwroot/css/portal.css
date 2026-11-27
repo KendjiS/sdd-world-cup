@@ -177,6 +177,38 @@ a {
     border-radius: 2px;
 }
 
+/* === CABEÇALHO E BARRA DE FERRAMENTAS DE PÁGINA === */
+.pc-page-header { margin-bottom: 2rem; }
+.pc-page-header h1 { font-size: 1.65rem; font-weight: 800; letter-spacing: -0.02em; margin: 0; }
+.pc-page-header p { margin: 0.3rem 0 0; color: var(--pc-txt-soft); font-size: 0.88rem; }
+
+.pc-toolbar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+/* === LISTAS DE JOGOS POR DIA (Home e Jogos) === */
+.pc-day-group { margin-bottom: 2rem; }
+
+.pc-game-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.pc-empty {
+    color: var(--pc-txt-soft);
+    background: var(--pc-card);
+    border: 1px solid var(--pc-border);
+    border-radius: var(--pc-r-lg);
+    padding: 1.25rem;
+    margin: 0;
+}
+
 .text-gold { color: var(--pc-gold); }
 .text-soft { color: var(--pc-txt-soft); }
 

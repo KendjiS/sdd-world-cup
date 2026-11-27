@@ -1,0 +1,16 @@
+@* Cabeçalho de um dia de jogos: data por extenso e quantidade de partidas. *@
+
+<div class="day-label">
+    <h3>@FormatoPtBr.DiaPorExtenso(Data)</h3>
+    <span class="badge badge-next">@Quantidade @(Quantidade == 1 ? "jogo" : "jogos")</span>
+</div>
+
+@code {
+    /// <summary>Data dos jogos (horário de Brasília).</summary>
+    [Parameter, EditorRequired]
+    public DateOnly Data { get; set; }
+
+    /// <summary>Quantidade de jogos no dia.</summary>
+    [Parameter, EditorRequired]
+    public int Quantidade { get; set; }
+}

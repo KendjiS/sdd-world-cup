@@ -1,0 +1,65 @@
+@* Card de um jogo: mandante x visitante, horário (Brasília), grupo ou rótulo do mata-mata e estádio. *@
+@using PortalCopa26.Models
+@using PortalCopa26.Models.Dtos
+
+<article class="game-card" aria-label="Jogo @Jogo.Numero: @Jogo.Mandante.Nome x @Jogo.Visitante.Nome">
+    @LadoDoJogo((Jogo.Mandante, false))
+
+    <div class="game-center">
+        <span class="badge badge-next">@Selo</span>
+        <div class="game-score">— : —</div>
+        <div class="game-time">
+            @FormatoPtBr.Hora(Jogo.DataHoraBrasilia)
+            @if (Jogo.Grupo is not null)
+            {
+                <span class="badge badge-group ms-1">Grp @Jogo.Grupo</span>
+            }
+            else if (Jogo.Rotulo is not null)
+            {
+                <span class="badge badge-gold ms-1">@Jogo.Rotulo</span>
+            }
+        </div>
+        <div class="game-meta">
+            <span class="game-stadium">@Jogo.Estadio.Nome</span> · @Jogo.Estadio.Cidade
+            @if (ExibirDetalhesEstadio)
+            {
+                <div class="game-meta-extra">
+                    @Jogo.Estadio.Pais.Nome() · Capacidade @FormatoPtBr.Inteiro(Jogo.Estadio.Capacidade) · Jogo @Jogo.Numero
+                </div>
+            }
+        </div>
+    </div>
+
+    @LadoDoJogo((Jogo.Visitante, true))
+</article>
+
+@code {
+    /// <summary>Jogo a exibir; o horário já está em Brasília.</summary>
+    [Parameter, EditorRequired]
+    public JogoResumoDto Jogo { get; set; } = default!;
+
+    /// <summary>Texto do selo de situação exibido acima do placar.</summary>
+    [Parameter]
+    public string Selo { get; set; } = "Agendado";
+
+    /// <summary>Exibe país, capacidade do estádio e número do jogo.</summary>
+    [Parameter]
+    public bool ExibirDetalhesEstadio { get; set; }
+
+    private RenderFragment<(LadoJogoDto Lado, bool Visitante)> LadoDoJogo => args => __builder =>
+    {
+        <div class="team-side @(args.Visitante ? "away" : null)">
+            @if (args.Lado.Definido)
+            {
+                <BandeiraSelecao CodigoFifa="@(args.Lado.CodigoFifa!)" Nome="@args.Lado.Nome" Tamanho="sm" />
+            }
+            <div>
+                <div class="team-name">@args.Lado.Nome</div>
+                @if (args.Lado.Definido)
+                {
+                    <div class="team-code">@args.Lado.CodigoFifa</div>
+                }
+            </div>
+        </div>
+    };
+}

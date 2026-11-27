@@ -1,5 +1,7 @@
+using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using PortalCopa26.Data;
+using PortalCopa26.Models;
 using PortalCopa26.Models.Dtos;
 
 namespace PortalCopa26.Services;
@@ -15,12 +17,34 @@ public sealed class JogoService(IDbContextFactory<PortalCopaDbContext> dbFactory
 
         var limiteUtc = HorarioBrasilia.InicioDoDiaUtc(dataReferencia);
 
+        var dias = await ObterPorDiaAsync(j => j.DataHoraUtc >= limiteUtc, cancellationToken);
+        return dias.Take(quantidadeDias).ToList();
+    }
+
+    public Task<IReadOnlyList<DiaJogosDto>> ObterJogosAsync(
+        string? grupo = null,
+        CancellationToken cancellationToken = default) =>
+        string.IsNullOrWhiteSpace(grupo)
+            ? ObterPorDiaAsync(null, cancellationToken)
+            : ObterPorDiaAsync(j => j.Grupo != null && j.Grupo.Codigo == grupo, cancellationToken);
+
+    /// <summary>
+    /// Jogos que atendem ao <paramref name="filtro"/>, em ordem de data e hora, agrupados por dia
+    /// em Brasília. São no máximo 104 jogos: o agrupamento é feito em memória.
+    /// </summary>
+    private async Task<IReadOnlyList<DiaJogosDto>> ObterPorDiaAsync(
+        Expression<Func<Jogo, bool>>? filtro,
+        CancellationToken cancellationToken)
+    {
         await using var db = await dbFactory.CreateDbContextAsync(cancellationToken);
 
-        // No máximo 104 jogos: buscar os futuros e agrupar por dia em memória.
-        var jogos = await db.Jogos
-            .AsNoTracking()
-            .Where(j => j.DataHoraUtc >= limiteUtc)
+        IQueryable<Jogo> consulta = db.Jogos.AsNoTracking();
+        if (filtro is not null)
+        {
+            consulta = consulta.Where(filtro);
+        }
+
+        var jogos = await consulta
             .OrderBy(j => j.DataHoraUtc)
             .ThenBy(j => j.Numero)
             .Select(j => new
@@ -31,7 +55,9 @@ public sealed class JogoService(IDbContextFactory<PortalCopaDbContext> dbFactory
                 j.DataHoraUtc,
                 Grupo = j.Grupo != null ? j.Grupo.Codigo : null,
                 Estadio = j.Estadio!.Nome,
-                Cidade = j.Estadio.Cidade,
+                j.Estadio.Cidade,
+                j.Estadio.Pais,
+                j.Estadio.Capacidade,
                 MandanteNome = j.SelecaoMandante != null ? j.SelecaoMandante.Nome : null,
                 MandanteCodigo = j.SelecaoMandante != null ? j.SelecaoMandante.CodigoFifa : null,
                 j.DescricaoMandante,
@@ -48,12 +74,10 @@ public sealed class JogoService(IDbContextFactory<PortalCopaDbContext> dbFactory
                 j.Rotulo,
                 j.Grupo,
                 HorarioBrasilia.ParaBrasilia(j.DataHoraUtc),
-                j.Estadio,
-                j.Cidade,
+                new EstadioResumoDto(j.Estadio, j.Cidade, j.Pais, j.Capacidade),
                 Lado(j.MandanteNome, j.MandanteCodigo, j.DescricaoMandante),
                 Lado(j.VisitanteNome, j.VisitanteCodigo, j.DescricaoVisitante)))
             .GroupBy(j => DateOnly.FromDateTime(j.DataHoraBrasilia))
-            .Take(quantidadeDias)
             .Select(g => new DiaJogosDto(g.Key, g.ToList()))
             .ToList();
     }

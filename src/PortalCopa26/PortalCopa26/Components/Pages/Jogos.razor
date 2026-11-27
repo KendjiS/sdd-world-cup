@@ -1,0 +1,128 @@
+@page "/jogos"
+@using PortalCopa26.Components.Pages.JogosPage
+@using PortalCopa26.Models.Dtos
+@using PortalCopa26.Services
+@inject IJogoService JogoService
+@inject IGrupoService GrupoService
+
+<PageTitle>@(grupo is null ? "Jogos" : $"Jogos do Grupo {grupo.Codigo}") — PortalCopa26</PageTitle>
+
+<div class="pc-page">
+    <div class="pc-page-header">
+        <h1>@(grupo is null ? "Jogos" : $"Jogos do Grupo {grupo.Codigo}")</h1>
+        <p>@Resumo() · horários de Brasília</p>
+    </div>
+
+    <div class="pc-toolbar">
+        <JogosFiltro Grupos="codigosGrupos" GrupoSelecionado="@grupo?.Codigo" />
+        <a href="grupos" class="btn btn-outline-portal btn-sm">Ver Grupos</a>
+    </div>
+
+    @if (grupoInvalido)
+    {
+        <p class="pc-empty mb-4" role="status">
+            O grupo "@grupoInformado" não existe. Exibindo todos os jogos.
+        </p>
+    }
+
+    @if (grupo is not null)
+    {
+        <section class="grupo-info" aria-labelledby="grupo-info-titulo">
+            <div class="grupo-info-header">
+                <h2 id="grupo-info-titulo">Grupo @grupo.Codigo</h2>
+                <div class="grupo-info-stats">
+                    <span><strong>@TotalJogos</strong> jogos</span>
+                    <span><strong>@Estadios.Count</strong> @(Estadios.Count == 1 ? "estádio" : "estádios")</span>
+                </div>
+            </div>
+            <ul class="grupo-info-selecoes">
+                @foreach (var selecao in grupo.Selecoes)
+                {
+                    <li>
+                        <BandeiraSelecao CodigoFifa="@selecao.CodigoFifa" Nome="@selecao.Nome" Tamanho="xs" />
+                        <span class="grupo-info-nome">@selecao.Nome</span>
+                        @if (selecao.CabecaDeChave)
+                        {
+                            <span class="badge badge-gold">Cabeça de chave</span>
+                        }
+                    </li>
+                }
+            </ul>
+            <p class="grupo-info-estadios">@string.Join(" · ", Estadios)</p>
+        </section>
+    }
+
+    @if (dias.Count == 0)
+    {
+        <p class="pc-empty">Nenhum jogo encontrado.</p>
+    }
+    else
+    {
+        @foreach (var dia in dias)
+        {
+            <div class="pc-day-group">
+                <JogosDataHeader Data="dia.Data" Quantidade="dia.Jogos.Count" />
+
+                <div class="pc-game-list">
+                    @foreach (var jogo in dia.Jogos)
+                    {
+                        <JogoCard @key="jogo.Numero" Jogo="jogo" ExibirDetalhesEstadio />
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
+
+@code {
+    /// <summary>Código do grupo a filtrar (?grupo=A). Ausente ou inválido: todos os jogos.</summary>
+    [SupplyParameterFromQuery(Name = "grupo")]
+    public string? GrupoQuery { get; set; }
+
+    private IReadOnlyList<string> codigosGrupos = [];
+    private GrupoResumoDto? grupo;
+    private bool grupoInvalido;
+    private string? grupoInformado;
+    private IReadOnlyList<DiaJogosDto> dias = [];
+
+    private int TotalJogos => dias.Sum(d => d.Jogos.Count);
+
+    private IReadOnlyList<string> Estadios => dias
+        .SelectMany(d => d.Jogos)
+        .Select(j => $"{j.Estadio.Nome} ({j.Estadio.Cidade})")
+        .Distinct()
+        .ToList();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        var grupos = await GrupoService.ObterGruposAsync();
+        codigosGrupos = grupos.Select(g => g.Codigo).ToList();
+
+        var codigo = GrupoQuery?.Trim();
+        grupoInformado = codigo;
+        grupo = string.IsNullOrEmpty(codigo)
+            ? null
+            : grupos.FirstOrDefault(g => string.Equals(g.Codigo, codigo, StringComparison.OrdinalIgnoreCase));
+        grupoInvalido = !string.IsNullOrEmpty(codigo) && grupo is null;
+
+        dias = await JogoService.ObterJogosAsync(grupo?.Codigo);
+    }
+
+    /// <summary>Ex.: "104 partidas · 11 de junho a 19 de julho de 2026".</summary>
+    private string Resumo()
+    {
+        if (dias.Count == 0)
+        {
+            return "Nenhuma partida";
+        }
+
+        var total = TotalJogos;
+        var primeiro = dias[0].Data;
+        var ultimo = dias[^1].Data;
+        var periodo = primeiro == ultimo
+            ? FormatoPtBr.DiaMes(primeiro)
+            : $"{FormatoPtBr.DiaMes(primeiro)} a {FormatoPtBr.DiaMes(ultimo)}";
+
+        return $"{total} {(total == 1 ? "partida" : "partidas")} · {periodo} de {ultimo.Year}";
+    }
+}

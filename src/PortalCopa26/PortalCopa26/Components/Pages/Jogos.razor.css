@@ -1,0 +1,57 @@
+.grupo-info {
+    background: var(--pc-card);
+    border: 1px solid var(--pc-border);
+    border-left: 3px solid var(--pc-gold);
+    border-radius: var(--pc-r-lg);
+    padding: 1rem 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.grupo-info-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+}
+
+.grupo-info-header h2 {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 800;
+}
+
+.grupo-info-stats {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.8rem;
+    color: var(--pc-txt-soft);
+}
+
+.grupo-info-stats strong { color: var(--pc-txt); }
+
+.grupo-info-selecoes {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.5rem 1rem;
+}
+
+.grupo-info-selecoes li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.grupo-info-nome { font-weight: 600; }
+
+.grupo-info-estadios {
+    margin: 0.75rem 0 0;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--pc-border-soft);
+    font-size: 0.78rem;
+    color: var(--pc-txt-muted);
+}

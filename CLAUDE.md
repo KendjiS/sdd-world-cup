@@ -33,48 +33,6 @@ O código deve ser organizado de forma que permita futura migração para uma ar
 
 ---
 
-## Escopo
-
-### Landing Page
-
-Página inicial contendo:
-
-- Hero Section
-- Países-sede
-- Próximos jogos
-- Ranking FIFA : Grafico de barras com Chart.js
-- Chamada para o simulador
-
-### Jogos
-
-- Listagem de jogos
-- Ordenação por data
-- Informações do grupo
-- Informações do estádio
-
-### Grupos
-
-- Exibição dos grupos
-- Classificação
-- Estatísticas
-
-### Seleções
-
-- Informações das seleções
-- Elencos
-- Estatísticas dos jogadores : nome, posição , idade, gols marcados, participação em copas
-
-### Ranking FIFA
-
-- Exibição do ranking das seleções
-
-### Simulador
-
-- Simulação de resultados
-- Atualização da classificação
-- Simulação da fase de grupos
-- Persistir a simulação
-
 ## Visualizações e Gráficos
 
 A Landing Page deverá exibir um gráfico de barras com o Ranking FIFA.
@@ -163,18 +121,6 @@ Ao implementar funcionalidades relacionadas ao torneio:
 - Jogadores: elencos das 48 seleções
 - Jogos: 104
 - Ranking FIFA
-
-### Fases do mundial
-
-| Fase             | Times | Jogos | Datas              |
-|------------------|-------|-------|--------------------|
-| Fase de Grupos   | 48    | 72    | 11 jun – 2 jul     |
-| Segunda Fase     | 32    | 16    | 28 jun – 3 jul     |
-| Oitavas de Final | 16    | 8     | 4 jul – 9 jul      |
-| Quartas de Final | 8     | 4     | 11 jul – 13 jul    |
-| Semifinais       | 4     | 2     | 15 jul – 16 jul    |
-| 3º Lugar         | 2     | 1     | 18 jul (Miami)     |
-| Final            | 2     | 1     | 19 jul (Nova York) |
 
 Total: 104 jogos. O arquivo `copa2026_fases.txt` informa "total de 102 jogos", mas a soma das suas próprias linhas é 104. Vale o total de 104.
 

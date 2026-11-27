@@ -1,0 +1,24 @@
+.filters {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 0.38rem 0.85rem;
+    border-radius: 6px;
+    border: 1px solid var(--pc-border);
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--pc-txt-soft);
+    background: transparent;
+    white-space: nowrap;
+    transition: all 0.15s;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    border-color: var(--pc-gold);
+    color: var(--pc-gold);
+    background: rgba(245, 166, 35, 0.07);
+}

@@ -9,6 +9,9 @@ public sealed record LadoJogoDto(string Nome, string? CodigoFifa)
     public bool Definido => CodigoFifa is not null;
 }
 
+/// <summary>Estádio onde o jogo é disputado.</summary>
+public sealed record EstadioResumoDto(string Nome, string Cidade, PaisSede Pais, int Capacidade);
+
 /// <summary>Resumo de um jogo para listagens, com horário já convertido para Brasília.</summary>
 public sealed record JogoResumoDto(
     int Numero,
@@ -16,8 +19,7 @@ public sealed record JogoResumoDto(
     string? Rotulo,
     string? Grupo,
     DateTime DataHoraBrasilia,
-    string Estadio,
-    string Cidade,
+    EstadioResumoDto Estadio,
     LadoJogoDto Mandante,
     LadoJogoDto Visitante);
 

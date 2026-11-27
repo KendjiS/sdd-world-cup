@@ -45,6 +45,7 @@ public static class ServiceCollectionExtensions
 
         services.AddScoped<ITorneioService, TorneioService>();
         services.AddScoped<IJogoService, JogoService>();
+        services.AddScoped<IGrupoService, GrupoService>();
         services.AddScoped<IRankingFifaService, RankingFifaService>();
 
         return services;

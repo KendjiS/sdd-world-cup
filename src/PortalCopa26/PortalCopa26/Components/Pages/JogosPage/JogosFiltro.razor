@@ -1,0 +1,24 @@
+@* Filtro de jogos por grupo. Cada opção é um link (?grupo=X), então funciona sem interatividade e a URL pode ser compartilhada. *@
+
+<nav class="filters" aria-label="Filtrar jogos por grupo">
+    @Opcao("jogos", "Todos", GrupoSelecionado is null)
+    @foreach (var grupo in Grupos)
+    {
+        @Opcao($"jogos?grupo={Uri.EscapeDataString(grupo)}", $"Grupo {grupo}", grupo == GrupoSelecionado)
+    }
+</nav>
+
+@code {
+    /// <summary>Códigos dos grupos disponíveis (A a L).</summary>
+    [Parameter, EditorRequired]
+    public IReadOnlyList<string> Grupos { get; set; } = [];
+
+    /// <summary>Grupo filtrado; nulo quando todos os jogos são exibidos.</summary>
+    [Parameter]
+    public string? GrupoSelecionado { get; set; }
+
+    private static RenderFragment Opcao(string href, string texto, bool ativo) => __builder =>
+    {
+        <a href="@href" class="filter-btn @(ativo ? "active" : null)" aria-current="@(ativo ? "page" : null)">@texto</a>
+    };
+}

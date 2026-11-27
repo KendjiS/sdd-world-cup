@@ -13,4 +13,12 @@ public interface IJogoService
         DateOnly dataReferencia,
         int quantidadeDias,
         CancellationToken cancellationToken = default);
+
+    /// <summary>
+    /// Todos os jogos, ou apenas os do grupo <paramref name="grupo"/> quando informado,
+    /// em ordem de data e hora e agrupados pela data em Brasília.
+    /// </summary>
+    Task<IReadOnlyList<DiaJogosDto>> ObterJogosAsync(
+        string? grupo = null,
+        CancellationToken cancellationToken = default);
 }
